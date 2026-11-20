@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <!-- Chargily test sandbox always returns http://pay.chargily.dz URLs -->
+    <!-- This is their infrastructure — we cannot change it -->
+    <!-- Only allow cleartext for this specific domain -->
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">pay.chargily.dz</domain>
+    </domain-config>
+
+    <!-- All other traffic (Firebase, your API, etc.) stays HTTPS only -->
+    <base-config cleartextTrafficPermitted="false">
+        <trust-anchors>
+            <certificates src="system" />
+        </trust-anchors>
+    </base-config>
+</network-security-config>

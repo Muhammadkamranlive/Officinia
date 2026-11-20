@@ -1,0 +1,18 @@
+﻿services:
+  api.authentication:
+    image: api.authentication
+    build:
+      context: .
+      dockerfile: API/Authentication/API.Authentication/Dockerfile
+
+  serverapi:
+    image: serverapi
+    build:
+      context: .
+      dockerfile: ServerApi/Dockerfile
+  serverapi-1:
+    image: serverapi-1
+    build:
+      context: .
+      dockerfile: API/ServerApi/Dockerfile
+

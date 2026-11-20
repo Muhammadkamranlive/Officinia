@@ -1,0 +1,2155 @@
+{
+  "noor_card": [
+    {
+      "isRequired": "true",
+      "fieldType": "AppBarHeading",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Card Selection",
+      "fieldValue": "true",
+      "fieldClassID": "",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Header",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Select Your Preferred Card",
+      "fieldValue": "",
+      "fieldClassID": "card_header",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Picker",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Product Type*",
+      "fieldValue": "",
+      "fieldClassID": "product_type",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Picker",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Product Type*",
+      "fieldValue": "",
+      "fieldClassID": "limit_info",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "slider",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Slider",
+      "fieldValue": "",
+      "fieldClassID": "Set_user_limit",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Entry",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Card Title",
+      "fieldValue": "Enter Card Title",
+      "fieldClassID": "card_name",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Discription_box",
+      "fieldKeyboardType": "",
+      "fieldPlaceholder": "Max 18 Characters",
+      "fieldValue": "",
+      "fieldClassID": "Discription_box",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Picker",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Customer Product Type *",
+      "fieldValue": "",
+      "fieldClassID": "customer_product_type",
+      "fieldIsRequired": true,
+      "listItems": [
+        "Faysal Islamic Noor Cards",
+        "Islami Personal Finance (IPF)",
+        "Faysal Car Finance",
+        "Housing Finance",
+        "Faysal Takmeel",
+        "Faysal Islami Solar Solution"
+      ],
+      "listItemsDetails": [
+        [
+          {
+            "isRequired": "true",
+            "fieldType": "Note",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Your name as you would like to appear on Card (19 characters allowed)",
+            "fieldValue": "",
+            "fieldClassID": "",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          }
+        ],
+        [
+          {
+            "isRequired": "true",
+            "fieldType": "Entry",
+            "fieldKeyboardType": "number",
+            "fieldPlaceholder": "Financing Amount *",
+            "fieldValue": "",
+            "fieldClassID": "financing_amount",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Financing Tenor *",
+            "fieldValue": "",
+            "fieldClassID": "ipf_tenor_type",
+            "fieldIsRequired": true,
+            "listItems": [
+              "12 Months",
+              "24 Months",
+              "36 Months",
+              "48 Months"
+            ],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Purpose of Financing *",
+            "fieldValue": "",
+            "fieldClassID": "ipf_purpose_type",
+            "fieldIsRequired": true,
+            "listItems": [
+              "Wedding",
+              "Vacation",
+              "Medical",
+              "Education",
+              "Other"
+            ],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Radio",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Installment Due Date",
+            "fieldValue": "",
+            "fieldClassID": "ipf_due_date",
+            "fieldIsRequired": true,
+            "listItems": [
+              "1st of every month",
+              "15th of every month"
+            ],
+            "listItemsDetails": []
+          }
+        ],
+        [
+          {
+            "isRequired": "true",
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Financing Type *",
+            "fieldValue": "",
+            "fieldClassID": "car_finance_type",
+            "fieldIsRequired": true,
+            "listItems": [
+              "Normal Financing",
+              "1st Year Deferred Payment",
+              "2nd Year Deferred Payment",
+              "Residual Value"
+            ],
+            "listItemsDetails": [
+              [
+                {
+                  "isRequired": "true",
+                  "fieldType": "Entry",
+                  "fieldKeyboardType": "number",
+                  "fieldPlaceholder": "RV % *",
+                  "fieldValue": "",
+                  "fieldClassID": "Residual Value",
+                  "fieldIsRequired": true,
+                  "listItems": [],
+                  "listItemsDetails": []
+                },
+                {
+                  "isRequired": "true",
+                  "fieldType": "Entry",
+                  "fieldKeyboardType": "number",
+                  "fieldPlaceholder": "RV Amount *",
+                  "fieldValue": "",
+                  "fieldClassID": "Residual Value",
+                  "fieldIsRequired": true,
+                  "listItems": [],
+                  "listItemsDetails": []
+                }
+              ]
+            ]
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Vehicle Type *",
+            "fieldValue": "",
+            "fieldClassID": "car_vehicle_type",
+            "fieldIsRequired": true,
+            "listItems": [
+              "BMW",
+              "Daewoo",
+              "Daihatsu",
+              "Honda",
+              "Hyundai",
+              "KIA"
+            ],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Type of Facility *",
+            "fieldValue": "",
+            "fieldClassID": "car_facility_type",
+            "fieldIsRequired": true,
+            "listItems": [
+              "Ready Delivery",
+              "Advance Booking"
+            ],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "EMI Type *",
+            "fieldValue": "",
+            "fieldClassID": "car_emi_type",
+            "fieldIsRequired": true,
+            "listItems": [
+              "Normal EMI"
+            ],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Manufacturer *",
+            "fieldValue": "",
+            "fieldClassID": "car_manufacturer_type",
+            "fieldIsRequired": true,
+            "listItems": [
+              "600CC",
+              "1000CC",
+              "1300CC"
+            ],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Make *",
+            "fieldValue": "",
+            "fieldClassID": "car_maker_type",
+            "fieldIsRequired": true,
+            "listItems": [
+              "BMW",
+              "Daewoo",
+              "Daihatsu",
+              "Honda",
+              "Hyundai",
+              "KIA"
+            ],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Model *",
+            "fieldValue": "",
+            "fieldClassID": "car_model_type",
+            "fieldIsRequired": true,
+            "listItems": [
+              "2002",
+              "2003",
+              "2004",
+              "2005"
+            ],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Entry",
+            "fieldKeyboardType": "number",
+            "fieldPlaceholder": "Vehicle Price *",
+            "fieldValue": "",
+            "fieldClassID": "vehicle_price",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Equity Contribution % *",
+            "fieldValue": "",
+            "fieldClassID": "car_equity_type",
+            "fieldIsRequired": true,
+            "listItems": [
+              "Toyota",
+              "Suzuki",
+              "MG",
+              "KIA"
+            ],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Entry",
+            "fieldKeyboardType": "number",
+            "fieldPlaceholder": "Financing Amount *",
+            "fieldValue": "",
+            "fieldClassID": "financing_amount",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Financing Tenor *",
+            "fieldValue": "",
+            "fieldClassID": "car_finance_tenor_type",
+            "fieldIsRequired": true,
+            "listItems": [
+              "1 Year",
+              "2 Year",
+              "3 Year",
+              "4 Year",
+              "5 Year",
+              "6 Year",
+              "7 Year"
+            ],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Takaful Company *",
+            "fieldValue": "",
+            "fieldClassID": "car_takaful_type",
+            "fieldIsRequired": true,
+            "listItems": [
+              "Toyota",
+              "Suzuki",
+              "MG",
+              "KIA"
+            ],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Radio",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Installment Due Date",
+            "fieldValue": "",
+            "fieldClassID": "car_due_date",
+            "fieldIsRequired": true,
+            "listItems": [
+              "1st of every month",
+              "15th of every month"
+            ],
+            "listItemsDetails": []
+          }
+        ],
+        [
+          {
+            "fieldType": "Entry",
+            "fieldKeyboardType": "number",
+            "fieldPlaceholder": "Financing Amount *",
+            "fieldValue": "",
+            "fieldClassID": "house_financing_amount",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          },
+          {
+            "fieldType": "Entry",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Address of the property *",
+            "fieldValue": "",
+            "fieldClassID": "property_address",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          },
+          {
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Financing Tenor *",
+            "fieldValue": "",
+            "fieldClassID": "home_finance_tenor_type",
+            "fieldIsRequired": true,
+            "listItems": [
+              "12 Months",
+              "24 Months",
+              "36 Months",
+              "48 Months"
+            ],
+            "listItemsDetails": []
+          },
+          {
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Type of Facility *",
+            "fieldValue": "",
+            "fieldClassID": "home_facility_type",
+            "fieldIsRequired": true,
+            "listItems": [
+              "Buy a Home",
+              "Buy a Land & Construction or Build a Home",
+              "Home Renovation",
+              "Refinance a Home"
+            ],
+            "listItemsDetails": [
+              [
+                {
+                  "fieldType": "Entry",
+                  "fieldKeyboardType": "number",
+                  "fieldPlaceholder": "Purchase Price *",
+                  "fieldValue": "",
+                  "fieldClassID": "Buy a Home",
+                  "fieldIsRequired": true,
+                  "listItems": [],
+                  "listItemsDetails": []
+                }
+              ],
+              [
+                {
+                  "fieldType": "Entry",
+                  "fieldKeyboardType": "number",
+                  "fieldPlaceholder": "Value of Land *",
+                  "fieldValue": "",
+                  "fieldClassID": "Buy a Land & Construction or Build a Home",
+                  "fieldIsRequired": true,
+                  "listItems": [],
+                  "listItemsDetails": []
+                },
+                {
+                  "fieldType": "Entry",
+                  "fieldKeyboardType": "number",
+                  "fieldPlaceholder": "Estimated Cost of Construction *",
+                  "fieldValue": "",
+                  "fieldClassID": "Buy a Land & Construction or Build a Home",
+                  "fieldIsRequired": true,
+                  "listItems": [],
+                  "listItemsDetails": []
+                },
+                {
+                  "fieldType": "Entry",
+                  "fieldKeyboardType": "text",
+                  "fieldPlaceholder": "Total Amount *",
+                  "fieldValue": "",
+                  "fieldClassID": "Buy a Land & Construction or Build a Home",
+                  "fieldIsRequired": true,
+                  "listItems": [],
+                  "listItemsDetails": []
+                }
+              ],
+              [
+                {
+                  "fieldType": "Entry",
+                  "fieldKeyboardType": "number",
+                  "fieldPlaceholder": "Property Price *",
+                  "fieldValue": "",
+                  "fieldClassID": "Home Renovation",
+                  "fieldIsRequired": true,
+                  "listItems": [],
+                  "listItemsDetails": []
+                },
+                {
+                  "fieldType": "Entry",
+                  "fieldKeyboardType": "text",
+                  "fieldPlaceholder": "Estimated Cost of Renovation *",
+                  "fieldValue": "",
+                  "fieldClassID": "Home Renovation",
+                  "fieldIsRequired": true,
+                  "listItems": [],
+                  "listItemsDetails": []
+                }
+              ],
+              [
+                {
+                  "fieldType": "Entry",
+                  "fieldKeyboardType": "number",
+                  "fieldPlaceholder": "Property Price *",
+                  "fieldValue": "",
+                  "fieldClassID": "Refinance a Home",
+                  "fieldIsRequired": true,
+                  "listItems": [],
+                  "listItemsDetails": []
+                },
+                {
+                  "fieldType": "Entry",
+                  "fieldKeyboardType": "number",
+                  "fieldPlaceholder": "Amount to be Refinance *",
+                  "fieldValue": "",
+                  "fieldClassID": "Refinance a Home",
+                  "fieldIsRequired": true,
+                  "listItems": [],
+                  "listItemsDetails": []
+                },
+                {
+                  "fieldType": "Entry",
+                  "fieldKeyboardType": "text",
+                  "fieldPlaceholder": "Name of Financial Institution *",
+                  "fieldValue": "",
+                  "fieldClassID": "Refinance a Home",
+                  "fieldIsRequired": true,
+                  "listItems": [],
+                  "listItemsDetails": []
+                }
+              ]
+            ]
+          },
+          {
+            "fieldType": "Radio",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Installment Due Date",
+            "fieldValue": "",
+            "fieldClassID": "housing_due_date",
+            "fieldIsRequired": true,
+            "listItems": [
+              "1st of every month",
+              "15th of every month"
+            ],
+            "listItemsDetails": []
+          }
+        ],
+        [
+          {
+            "fieldType": "Entry",
+            "fieldKeyboardType": "number",
+            "fieldPlaceholder": "Financing Amount *",
+            "fieldValue": "",
+            "fieldClassID": "Faysal Takmeel",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          },
+          {
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Financing Tenor *",
+            "fieldValue": "",
+            "fieldClassID": "Faysal Takmeel",
+            "fieldIsRequired": true,
+            "listItems": [
+              "6 Months",
+              "12 Months",
+              "18 Months",
+              "24 Months",
+              "30 Months",
+              "36 Months"
+            ],
+            "listItemsDetails": []
+          },
+          {
+            "fieldType": "Radio",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Installment Due Date",
+            "fieldValue": "",
+            "fieldClassID": "Faysal Takmeel",
+            "fieldIsRequired": true,
+            "listItems": [
+              "2nd of every month",
+              "15th of every month"
+            ],
+            "listItemsDetails": []
+          }
+        ],
+        [
+          {
+            "fieldType": "Entry",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Brand Name / Vendor *",
+            "fieldValue": "",
+            "fieldClassID": "Faysal Islami Solar Solution",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          },
+          {
+            "fieldType": "Entry",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Product Specification (in KVA) *",
+            "fieldValue": "",
+            "fieldClassID": "Faysal Islami Solar Solution",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          },
+          {
+            "fieldType": "Entry",
+            "fieldKeyboardType": "number",
+            "fieldPlaceholder": "Product Price *",
+            "fieldValue": "",
+            "fieldClassID": "Faysal Islami Solar Solution",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          },
+          {
+            "fieldType": "Entry",
+            "fieldKeyboardType": "number",
+            "fieldPlaceholder": "Equity Amount *",
+            "fieldValue": "",
+            "fieldClassID": "Faysal Islami Solar Solution",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          },
+          {
+            "fieldType": "Entry",
+            "fieldKeyboardType": "number",
+            "fieldPlaceholder": "Financing Amount *",
+            "fieldValue": "",
+            "fieldClassID": "Faysal Islami Solar Solution",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          },
+          {
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Financing Tenor *",
+            "fieldValue": "",
+            "fieldClassID": "Faysal Islami Solar Solution",
+            "fieldIsRequired": true,
+            "listItems": [
+              "6 Months",
+              "12 Months",
+              "18 Months",
+              "24 Months",
+              "30 Months",
+              "36 Months"
+            ],
+            "listItemsDetails": []
+          },
+          {
+            "fieldType": "Radio",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Installment Due Date",
+            "fieldValue": "",
+            "fieldClassID": "Faysal Islami Solar Solution",
+            "fieldIsRequired": true,
+            "listItems": [
+              "2nd of every month",
+              "15th of every month"
+            ],
+            "listItemsDetails": []
+          }
+        ]
+      ]
+    }
+  ],
+  "selfie": [
+    {
+      "isRequired": "true",
+      "fieldType": "AppBarHeading",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Identity Verification",
+      "fieldValue": "false",
+      "fieldClassID": "",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Header",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Help Us Know You Better",
+      "fieldValue": "",
+      "fieldClassID": "selfie_header",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Image",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "assets/images/selfie_instructions_large.png",
+      "fieldValue": "",
+      "fieldClassID": "selfie_instructions",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Button",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Capture your Selfie",
+      "fieldValue": "",
+      "fieldClassID": "selfie",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    }
+  ],
+  "ocr_inst": [
+    {
+      "isRequired": "true",
+      "fieldType": "AppBarHeading",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Identity Verification",
+      "fieldValue": "true",
+      "fieldClassID": "",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Header",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Select ID Type",
+      "fieldValue": "",
+      "fieldClassID": "",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Radio",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Id Types",
+      "fieldValue": "",
+      "fieldClassID": "id_card_type",
+      "fieldIsRequired": true,
+      "listItems": [
+        "CNIC",
+        "SNIC",
+        "NICOP"
+      ],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Header",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Scan Your ID",
+      "fieldValue": "",
+      "fieldClassID": "",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Image",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "assets/images/CNIC_instruct.png",
+      "fieldValue": "",
+      "fieldClassID": "cnic_Instructions_image",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    }
+  ],
+  "ocr": [
+    {
+      "isRequired": "true",
+      "fieldType": "AppBarHeading",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Identity Verification",
+      "fieldValue": "false",
+      "fieldClassID": "",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Header",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Position Your ID horizontally within \nthe Frame to Scan",
+      "fieldValue": "",
+      "fieldClassID": "",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "CNIC OCR",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Scan CNIC",
+      "fieldValue": "",
+      "fieldClassID": "cnic_ocr",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    }
+  ],
+  "personal": [
+    {
+      "isRequired": "true",
+      "fieldType": "AppBarHeading",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Personal Information",
+      "fieldValue": "true",
+      "fieldClassID": "",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Header",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Let's Review Your Details",
+      "fieldValue": "",
+      "fieldClassID": "review_header",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Entry",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Full Name",
+      "fieldValue": "Enter your full name",
+      "fieldClassID": "full_name",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Entry",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Father/Husband Name",
+      "fieldValue": "Enter your Father/Husband Name",
+      "fieldClassID": "father_name",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Picker",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Gender",
+      "fieldValue": "Select your gender",
+      "fieldClassID": "gender_type",
+      "fieldIsRequired": true,
+      "listItems": [
+        "Male",
+        "Female"
+      ],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Date",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Date of Birth",
+      "fieldValue": "Select date of birth",
+      "fieldClassID": "date_of_birth",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Date",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "ID Issuance",
+      "fieldValue": "Select ID Issuance date",
+      "fieldClassID": "id_issue_date",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Date",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "ID Expiry",
+      "fieldValue": "Select ID Expiry date",
+      "fieldClassID": "id_expiry_date",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    }
+  ],
+  "personal_more": [
+    {
+      "isRequired": "true",
+      "fieldType": "AppBarHeading",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Personal Information",
+      "fieldValue": "true",
+      "fieldClassID": "",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Header",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Further Details",
+      "fieldValue": "",
+      "fieldClassID": "review_header",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Entry",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Mother's Maiden name",
+      "fieldValue": "Enter your Mother's Maiden name",
+      "fieldClassID": "mother_name",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Picker",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Place of Birth",
+      "fieldValue": "Select Place of Birth",
+      "fieldClassID": "place_of_birth",
+      "fieldIsRequired": true,
+      "listItems": [
+        "Lahore",
+        "Karachi",
+        "Islamabad",
+        "Sialkot"
+      ],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Picker",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Marital Status",
+      "fieldValue": "Select Marital Status",
+      "fieldClassID": "marital_status",
+      "fieldIsRequired": true,
+      "listItems": [
+        "Single",
+        "Married",
+        "Divorced"
+      ],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Picker",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Nationality",
+      "fieldValue": "Select your Nationality",
+      "fieldClassID": "nationality_type",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Picker",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Number of Dependents",
+      "fieldValue": "Select Number of Dependents",
+      "fieldClassID": "number_of_dependents",
+      "fieldIsRequired": true,
+      "listItems": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20"
+      ],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Picker",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Educational Qualification",
+      "fieldValue": "Select Educational Qualification",
+      "fieldClassID": "educational_qualification",
+      "fieldIsRequired": true,
+      "listItems": [
+        "Primary School",
+        "Bachelor's Degree",
+        "Master's Degree",
+        "Doctorate"
+      ],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Radio",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Do you own a car?",
+      "fieldValue": "",
+      "fieldClassID": "own_car",
+      "fieldIsRequired": true,
+      "listItems": [
+        "Yes",
+        "No"
+      ],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Radio",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "How do you want to receive your statement",
+      "fieldValue": "",
+      "fieldClassID": "e_statement",
+      "fieldIsRequired": true,
+      "listItems": [
+        "Physical",
+        "E-statement"
+      ],
+      "listItemsDetails": []
+    }
+  ],
+  "residential": [
+    {
+      "isRequired": "true",
+      "fieldType": "AppBarHeading",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Residential Details",
+      "fieldValue": "true",
+      "fieldClassID": "",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Header",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Where Are You Located?",
+      "fieldValue": "",
+      "fieldClassID": "",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Entry",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Permanent Address",
+      "fieldValue": "Enter your Permanent Address",
+      "fieldClassID": "permanent_address",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Radio",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Is your current residential address different from your permanent address?",
+      "fieldValue": "",
+      "fieldClassID": "permanet_or_residential_address",
+      "fieldIsRequired": true,
+      "listItems": [
+        "Yes",
+        "No"
+      ],
+      "listItemsDetails": [
+        [],
+        [
+          {
+            "isRequired": "true",
+            "fieldType": "Entry",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Current Residential Address",
+            "fieldValue": "Enter your current address",
+            "fieldClassID": "current_address",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          }
+        ]
+      ]
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Picker",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "City",
+      "fieldValue": "Select your City",
+      "fieldClassID": "current_city",
+      "fieldIsRequired": true,
+      "listItems": [
+        "Lahore",
+        "Karachi",
+        "Islamabad",
+        "Sialkot"
+      ],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Picker",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "State",
+      "fieldValue": "Select your State",
+      "fieldClassID": "current_State",
+      "fieldIsRequired": true,
+      "listItems": [
+        "PUNJAB",
+        "SINDH",
+        "KHYBER PAKHTUNKHWA",
+        "BALOCHISTAN"
+      ],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Picker",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Type of Accommodation",
+      "fieldValue": "Select Type of Accommodation",
+      "fieldClassID": "type_of_accommodation",
+      "fieldIsRequired": true,
+      "listItems": [
+        "Home",
+        "Apartment",
+        "Flat"
+      ],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Picker",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Residence Ownership Status",
+      "fieldValue": "Select your residential Status",
+      "fieldClassID": "residential_status",
+      "fieldIsRequired": true,
+      "listItems": [
+        "Rent",
+        "Own"
+      ],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Date",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Living duration at Current Address",
+      "fieldValue": "",
+      "fieldClassID": "residence_since",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Entry",
+      "fieldKeyboardType": "number",
+      "fieldPlaceholder": "Telephone number",
+      "fieldValue": "Enter your number",
+      "fieldClassID": "telephone_number",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Radio",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Where would you like your card to be delivered?",
+      "fieldValue": "select an option",
+      "fieldClassID": "card_delivery",
+      "fieldIsRequired": true,
+      "listItems": [
+        "Residence",
+        "Office"
+      ],
+      "listItemsDetails": []
+    }
+  ],
+  "occupation": [
+    {
+      "isRequired": "true",
+      "fieldType": "AppBarHeading",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Occupational Details",
+      "fieldValue": "true",
+      "fieldClassID": "",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Header",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Tell Us About Your Profession",
+      "fieldValue": "",
+      "fieldClassID": "occupational_header",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Picker",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Employment Type",
+      "fieldValue": "Select your Employment type",
+      "fieldClassID": "employment_type",
+      "fieldIsRequired": true,
+      "listItems": [
+        "Salaried",
+        "Self Employed",
+        "Business"
+      ],
+      "listItemsDetails": [
+        [
+          {
+            "isRequired": "true",
+            "fieldType": "Entry",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Company Name",
+            "fieldValue": "Enter your Company Name",
+            "fieldClassID": "company_name",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Company Type",
+            "fieldValue": "Select your company type",
+            "fieldClassID": "company_type",
+            "fieldIsRequired": true,
+            "listItems": [
+              "Government",
+              "Private Ltd",
+              "Public Ltd",
+              "Proprietorship",
+              "Partnership",
+              "Other"
+            ],
+            "listItemsDetails": [
+              [],
+              [],
+              [],
+              [],
+              [],
+              []
+            ]
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Employment Status",
+            "fieldValue": "Select your Employment status",
+            "fieldClassID": "employment_status",
+            "listItems": [
+              "Permanent",
+              "3rd Party Contractual",
+              "Company Contract"
+            ],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Entry",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Designation (If Any)",
+            "fieldValue": "Enter Your Designation",
+            "fieldClassID": "current_designation",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Entry",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Department",
+            "fieldValue": "Enter your Department",
+            "fieldClassID": "current_department",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Entry",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Office Address",
+            "fieldValue": "Enter your office Address",
+            "fieldClassID": "office_address",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Office City",
+            "fieldValue": "Select Your Office City",
+            "fieldClassID": "office_city",
+            "fieldIsRequired": true,
+            "listItems": [
+              "Lahore",
+              "Karachi",
+              "Islamabad",
+              "Sialkot"
+            ],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Entry",
+            "fieldKeyboardType": "number",
+            "fieldPlaceholder": "Office Number",
+            "fieldValue": "Enter your office number",
+            "fieldClassID": "office_number",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Date",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Overall Work Experience",
+            "fieldValue": "",
+            "fieldClassID": "overall_work_experience",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Date",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Present Experience",
+            "fieldValue": "",
+            "fieldClassID": "present_experience",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          }
+        ],
+        [
+          {
+            "isRequired": "true",
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Profession Type",
+            "fieldValue": "Select Your Profession Type",
+            "fieldClassID": "profession_type",
+            "fieldIsRequired": true,
+            "listItems": [
+              "Architect",
+              "Chartered Accountant",
+              "Doctor",
+              "Engineer",
+              "Other"
+            ],
+            "listItemsDetails": [
+              [],
+              [],
+              [],
+              [],
+              [
+                {
+                  "fieldType": "Entry",
+                  "fieldKeyboardType": "text",
+                  "fieldPlaceholder": "Other Profession *",
+                  "fieldValue": "",
+                  "fieldClassID": "profession_type_other",
+                  "fieldIsRequired": true,
+                  "listItems": [],
+                  "listItemsDetails": []
+                }
+              ]
+            ]
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Entry",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Profession Name",
+            "fieldValue": "Enter your Professional Name",
+            "fieldClassID": "profession_name",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Company Type",
+            "fieldValue": "Select your company type",
+            "fieldClassID": "company_type",
+            "fieldIsRequired": true,
+            "listItems": [
+              "Government",
+              "Private Ltd",
+              "Public Ltd",
+              "Proprietorship",
+              "Partnership",
+              "Other"
+            ],
+            "listItemsDetails": [
+              [],
+              [],
+              [],
+              [],
+              [],
+              []
+            ]
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Entry",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Designation (If Any)",
+            "fieldValue": "Enter Your Designation",
+            "fieldClassID": "designation_profession",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Entry",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Office Address",
+            "fieldValue": "Enter your office Address",
+            "fieldClassID": "office_address",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Office City",
+            "fieldValue": "Select Your Office City",
+            "fieldClassID": "office_city",
+            "fieldIsRequired": true,
+            "listItems": [
+              "Lahore",
+              "Karachi",
+              "Islamabad",
+              "Sialkot"
+            ],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Entry",
+            "fieldKeyboardType": "number",
+            "fieldPlaceholder": "Office Number",
+            "fieldValue": "Enter your office number",
+            "fieldClassID": "office_number",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Date",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Years in Profession",
+            "fieldValue": "",
+            "fieldClassID": "overall_work_experience",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          }
+        ],
+        [
+          {
+            "isRequired": "true",
+            "fieldType": "Entry",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Business Name",
+            "fieldValue": "Enter Business Name",
+            "fieldClassID": "business_name",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Business Type",
+            "fieldValue": "Enter your company type",
+            "fieldClassID": "company_type",
+            "fieldIsRequired": true,
+            "listItems": [
+              "Government",
+              "Private Ltd",
+              "Public Ltd",
+              "Proprietorship",
+              "Partnership",
+              "Other"
+            ],
+            "listItemsDetails": [
+              [],
+              [],
+              [],
+              [],
+              [],
+              []
+            ]
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Nature of Business",
+            "fieldValue": "Select Business Nature",
+            "fieldClassID": "business_nature",
+            "fieldIsRequired": true,
+            "listItems": [
+              "Services",
+              "Retail",
+              "Wholesales",
+              "Trading",
+              "Manufacturing"
+            ],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Entry",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Office Address",
+            "fieldValue": "Enter your office Address",
+            "fieldClassID": "office_address",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Office City",
+            "fieldValue": "Select Your Office City",
+            "fieldClassID": "office_city",
+            "fieldIsRequired": true,
+            "listItems": [
+              "Lahore",
+              "Karachi",
+              "Islamabad",
+              "Sialkot"
+            ],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Entry",
+            "fieldKeyboardType": "number",
+            "fieldPlaceholder": "Office Number",
+            "fieldValue": "Enter your office number",
+            "fieldClassID": "office_number",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Date",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Years in Business",
+            "fieldValue": "",
+            "fieldClassID": "overall_work_experience",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          }
+        ],
+        [
+          {
+            "isRequired": "true",
+            "fieldType": "Entry",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Company Name",
+            "fieldValue": "Enter your Company Name",
+            "fieldClassID": "company_name",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Company Type",
+            "fieldValue": "Select your company type",
+            "fieldClassID": "company_type",
+            "fieldIsRequired": true,
+            "listItems": [
+              "Government",
+              "Private Ltd",
+              "Public Ltd",
+              "Proprietorship",
+              "Partnership",
+              "Other"
+            ],
+            "listItemsDetails": [
+              [],
+              [],
+              [],
+              [],
+              [],
+              []
+            ]
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Employment Status",
+            "fieldValue": "Select your Employment status",
+            "fieldClassID": "employment_status",
+            "listItems": [
+              "Permanent",
+              "3rd Party Contractual",
+              "Company Contract"
+            ],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Entry",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Current Designation",
+            "fieldValue": "Enter Your Current Designation",
+            "fieldClassID": "current_designation",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Entry",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Department",
+            "fieldValue": "Enter your Department",
+            "fieldClassID": "current_department",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Entry",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Office Address",
+            "fieldValue": "Enter your office Address",
+            "fieldClassID": "office_address",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Office City",
+            "fieldValue": "Select Your Office City",
+            "fieldClassID": "office_city",
+            "fieldIsRequired": true,
+            "listItems": [
+              "Lahore",
+              "Karachi",
+              "Islamabad",
+              "Sialkot"
+            ],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Entry",
+            "fieldKeyboardType": "number",
+            "fieldPlaceholder": "Office Number",
+            "fieldValue": "Enter your office number",
+            "fieldClassID": "office_number",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Date",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Overall Work Experience",
+            "fieldValue": "",
+            "fieldClassID": "overall_work_experience",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Date",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Present Experience",
+            "fieldValue": "",
+            "fieldClassID": "present_experience",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          }
+        ]
+      ]
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Entry",
+      "fieldKeyboardType": "number",
+      "fieldPlaceholder": "Gross Monthly Income",
+      "fieldValue": "Enter Gross Monthly income",
+      "fieldClassID": "monthly_gross_income",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Entry",
+      "fieldKeyboardType": "number",
+      "fieldPlaceholder": "Net Monthly Income",
+      "fieldValue": "Enter your Net Monthly Income",
+      "fieldClassID": "monthly_net_income",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Entry",
+      "fieldKeyboardType": "number",
+      "fieldPlaceholder": "Other Income",
+      "fieldValue": "Enter Other Income",
+      "fieldClassID": "other_income",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Entry",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Other Source of Income",
+      "fieldValue": "Enter Other Source of Income",
+      "fieldClassID": "other_source_income",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    }
+  ],
+  "reference": [
+    {
+      "isRequired": "true",
+      "fieldType": "AppBarHeading",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Reference Details",
+      "fieldValue": "true",
+      "fieldClassID": "",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Header",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Reference 1",
+      "fieldValue": "",
+      "fieldClassID": "",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Entry",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Reference Name",
+      "fieldValue": "Enter Reference Name",
+      "fieldClassID": "reference_name_1",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Entry",
+      "fieldKeyboardType": "number",
+      "fieldPlaceholder": "Reference CNIC",
+      "fieldValue": "Enter Reference CNIC",
+      "fieldClassID": "reference_cnic_1",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Entry",
+      "fieldKeyboardType": "number",
+      "fieldPlaceholder": "Reference Mobile Number",
+      "fieldValue": "03XXXXXXXXX",
+      "fieldClassID": "reference_mobile_1",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Picker",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Reference Relationship",
+      "fieldValue": "Select Reference Relationship",
+      "fieldClassID": "reference_relationship_1",
+      "fieldIsRequired": true,
+      "listItems": [
+        "Father",
+        "Mother",
+        "Sister",
+        "Brother",
+        "Wife",
+        "Sibling"
+      ],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Header",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Reference 2",
+      "fieldValue": "",
+      "fieldClassID": "",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Entry",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Reference Name",
+      "fieldValue": "Enter Reference Name",
+      "fieldClassID": "reference_name_2",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Entry",
+      "fieldKeyboardType": "number",
+      "fieldPlaceholder": "Reference CNIC",
+      "fieldValue": "Enter Reference CNIC",
+      "fieldClassID": "reference_cnic_2",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Entry",
+      "fieldKeyboardType": "number",
+      "fieldPlaceholder": "Reference Mobile Number",
+      "fieldValue": "03XXXXXXXXX",
+      "fieldClassID": "reference_mobile_2",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Picker",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Reference Relationship",
+      "fieldValue": "Select Reference Relationship",
+      "fieldClassID": "reference_relationship_2",
+      "fieldIsRequired": true,
+      "listItems": [
+        "Father",
+        "Mother",
+        "Sister",
+        "Brother",
+        "Wife",
+        "Sibling"
+      ],
+      "listItemsDetails": []
+    }
+  ],
+  "cf1": [
+    {
+      "isRequired": "true",
+      "fieldType": "AppBarHeading",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Declaration",
+      "fieldValue": "true",
+      "fieldClassID": "",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Header",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Financial Liabilities",
+      "fieldValue": "",
+      "fieldClassID": "",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Radio",
+      "fieldKeyboardType": "number",
+      "fieldPlaceholder": "Are you currently availing any financing facility?",
+      "fieldValue": "",
+      "fieldClassID": "Availing_Financial",
+      "fieldIsRequired": true,
+      "listItems": [
+        "Yes",
+        "No"
+      ],
+      "listItemsDetails": [
+        [
+          {
+            "isRequired": "true",
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Name of Bank / Financial Institution",
+            "fieldValue": "Select Name of bank",
+            "fieldClassID": "name_of_bank_two",
+            "fieldIsRequired": true,
+            "listItems": [
+              "National Bank of Pakistan (NBP)",
+              "The Bank of Punjab (BOP)",
+              "The Bank of Khyber (BOK)",
+              "Sindh Bank Limited",
+              "First Women Bank Limited",
+              "Zarai Taraqiati Bank Limited (ZTBL)",
+              "SME Bank Limited",
+              "Industrial Development Bank of Pakistan",
+              "Allied Bank Limited (ABL)",
+              "Askari Bank Limited",
+              "Bank AL Habib Limited (BAHL)",
+              "Bank Alfalah Limited",
+              "Faysal Bank Limited",
+              "Habib Bank Limited (HBL)",
+              "Habib Metropolitan Bank Limited",
+              "JS Bank Limited",
+              "MCB Bank Limited",
+              "MCB Islamic Bank Limited",
+              "Soneri Bank Limited",
+              "Standard Chartered Bank (Pakistan) Limited",
+              "United Bank Limited (UBL)",
+              "Silkbank Limited",
+              "Summit Bank Limited",
+              "Samba Bank Limited",
+              "Meezan Bank Limited",
+              "BankIslami Pakistan Limited",
+              "Al Baraka Bank (Pakistan) Limited",
+              "Dubai Islamic Bank Pakistan Limited",
+              "Citibank N.A.",
+              "Deutsche Bank AG",
+              "Industrial and Commercial Bank of China Limited (ICBC)",
+              "Bank of China",
+              "The Hongkong and Shanghai Banking Corporation (HSBC)",
+              "The Bank of Tokyo-Mitsubishi UFJ",
+              "Standard Chartered Bank",
+              "Microfinance Banks",
+              "Khushhali Microfinance Bank Limited",
+              "First MicroFinance Bank Limited",
+              "U Microfinance Bank Limited",
+              "FINCA Microfinance Bank Limited",
+              "Mobilink Microfinance Bank Limited",
+              "Apna Microfinance Bank Limited",
+              "NRSP Microfinance Bank Limited",
+              "Pak Oman Microfinance Bank Limited",
+              "Advans Pakistan Microfinance Bank Limited",
+              "Sindh Microfinance Bank Limited",
+              "House Building Finance Corporation"
+            ],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Product Type",
+            "fieldValue": "Select Product type",
+            "fieldClassID": "product_under_type",
+            "fieldIsRequired": true,
+            "listItems": [
+              "Credit Card",
+              "Personal Loan",
+              "Home Finance",
+              "Car Finance"
+            ],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Entry",
+            "fieldKeyboardType": "number",
+            "fieldPlaceholder": "Approved Limit",
+            "fieldValue": "Enter your Approved Limit",
+            "fieldClassID": "approved_limit_two",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Entry",
+            "fieldKeyboardType": "number",
+            "fieldPlaceholder": "Outstanding Amount",
+            "fieldValue": "Enter your Outstanding Amount",
+            "fieldClassID": "outstanding_amount",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Entry",
+            "fieldKeyboardType": "number",
+            "fieldPlaceholder": "Tenure",
+            "fieldValue": "Enter tenure",
+            "fieldClassID": "tenure",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          }
+        ]
+      ]
+    }
+  ],
+  "documents": [
+    {
+      "isRequired": "true",
+      "fieldType": "AppBarHeading",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Upload Documents",
+      "fieldValue": "true",
+      "fieldClassID": "",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Header",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "You are just a step away!",
+      "fieldValue": "",
+      "fieldClassID": "",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Button",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Bank Statement Last 6 Months *",
+      "fieldValue": "",
+      "fieldClassID": "Documents_Upload",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Checkbox",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "sss",
+      "fieldValue": "",
+      "fieldClassID": "agreements",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    }
+  ]
+}

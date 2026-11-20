@@ -1,0 +1,59 @@
+{
+    "image": "assets/images/noor_card_banner.png",
+    "sections": [
+      {
+        "iconBase64": "info",
+        "title": "CNIC/NICOP",
+        "rows": [
+          {
+            "id": 1,
+            "description": "Have your original CNIC/SNIC/NICOP."
+          },
+          {
+            "id": 2,
+            "description": "ddddddddddddddddddddddddddddddddd"
+          },
+          {
+            "id": 3,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "iconBase64": "account_balance_wallet",
+        "title": "recognitions",
+        "rows": [
+          {
+            "id": 1,
+            "description": "Sit in well lit area to perform facial recognition"
+          },
+          {
+            "id": 2,
+            "description": ""
+          },
+          {
+            "id": 3,
+            "description": ""
+          }
+        ]
+      },
+      {
+        "iconBase64": "security",
+        "title": "Documents Instrusctions",
+        "rows": [
+          {
+            "id": 1,
+            "description": "Salaried person - Salary slips for last 3 Months"
+          },
+          {
+            "id": 2,
+            "description": "Business owners - Proprietorship Letter / Partnership Deed/Form A / NTN Certificate."
+          },
+          {
+            "id": 3,
+            "description": "Bank statements for last 6 months"
+          }
+        ]
+      }
+    ]
+  }

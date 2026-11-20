@@ -1,0 +1,921 @@
+{
+    "personal": [
+        {
+            "fieldType": "subHeading",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Personal Details",
+            "fieldValue": "",
+            "fieldClassID": "",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Header",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Let's Review Your Details",
+            "fieldValue": "",
+            "fieldClassID": "review_header",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "formValue",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "product code",
+            "fieldValue": "SBI",
+            "fieldClassID": "Product_code",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "OCR",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Scan CNIC",
+            "fieldValue": "",
+            "fieldClassID": "cnic_ocr",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Entry",
+            "fieldKeyboardType": "number",
+            "fieldPlaceholder": "CNIC",
+            "fieldValue": "",
+            "fieldClassID": "cnic",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Date",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Date of Birth*",
+            "fieldValue": "",
+            "fieldClassID": "date_of_birth",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "ID Type*",
+            "fieldValue": "",
+            "fieldClassID": "id_card_type",
+            "fieldIsRequired": true,
+            "listItems": [
+                "CNIC",
+                "SNIC",
+                "NICOP"
+            ],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Date",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "ID Issuance*",
+            "fieldValue": "",
+            "fieldClassID": "id_issue_date",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Date",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "ID Expiry*",
+            "fieldValue": "",
+            "fieldClassID": "id_expiry_date",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Entry",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "First Name*",
+            "fieldValue": "",
+            "fieldClassID": "f_name",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Entry",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Midle Name*",
+            "fieldValue": "",
+            "fieldClassID": "m_name",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Entry",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Last Name*",
+            "fieldValue": "",
+            "fieldClassID": "l_name",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Entry",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Father/Husband Name*",
+            "fieldValue": "",
+            "fieldClassID": "father_name",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Entry",
+            "fieldKeyboardType": "number",
+            "fieldPlaceholder": "Personal Number*",
+            "fieldValue": "",
+            "fieldClassID": "personal_number",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Entry",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Customer Email ( optional )",
+            "fieldValue": "",
+            "fieldClassID": "customer_email",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Country of Birth*",
+            "fieldValue": "",
+            "fieldClassID": "country_type",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Entry",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Place of Birth*",
+            "fieldValue": "",
+            "fieldClassID": "play_of_birth",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Marital Status*",
+            "fieldValue": "",
+            "fieldClassID": "marital_status",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Number of Dependents*",
+            "fieldValue": "",
+            "fieldClassID": "number_of_dependents",
+            "fieldIsRequired": true,
+            "listItems": [
+                "01",
+                "02",
+                "03",
+                "04",
+                "05",
+                "06",
+                "07",
+                "08",
+                "09",
+                "10",
+                "11",
+                "12",
+                "13",
+                "14",
+                "15",
+                "16",
+                "17",
+                "18",
+                "19",
+                "20"
+            ],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Educational Qualification*",
+            "fieldValue": "",
+            "fieldClassID": "educational_qualification",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Nationality*",
+            "fieldValue": "",
+            "fieldClassID": "nationality_type",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Select Product *",
+            "fieldValue": "",
+            "fieldClassID": "select_Product",
+            "fieldIsRequired": true,
+            "listItems": [
+                "Faysal Islamic Asaan Current Account"
+            ],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Radio",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Do you own a car?",
+            "fieldValue": "",
+            "fieldClassID": "own_car",
+            "fieldIsRequired": true,
+            "listItems": [
+                "Yes",
+                "No"
+            ],
+            "listItemsDetails": []
+        }
+    ],
+    "residential": [
+        {
+            "fieldType": "subHeading",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Residential Details",
+            "fieldValue": "",
+            "fieldClassID": "",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Header",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Where are you located?",
+            "fieldValue": "",
+            "fieldClassID": "",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "City of Residence *",
+            "fieldValue": "",
+            "fieldClassID": "city_of_residence",
+            "fieldIsRequired": true,
+            "listItems": [
+           
+            ],
+            "listItemsDetails": []
+        }
+    ],
+    "occupation": [
+        {
+            "fieldType": "subHeading",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Occupation",
+            "fieldValue": "",
+            "fieldClassID": "",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Header",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Tell us about your Profession",
+            "fieldValue": "",
+            "fieldClassID": "occupational_header",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Employment Type*",
+            "fieldValue": "",
+            "fieldClassID": "employment_type",
+            "fieldIsRequired": true,
+            "listItems": [
+                "Salaried",
+                "Self Employed",
+                "Business"
+            ],
+            "listItemsDetails": [
+                [
+                    {
+                        "fieldType": "Entry",
+                        "fieldKeyboardType": "text",
+                        "fieldPlaceholder": "Company Name*",
+                        "fieldValue": "",
+                        "fieldClassID": "company_name",
+                        "fieldIsRequired": true,
+                        "listItems": [],
+                        "listItemsDetails": []
+                    },
+                    {
+                        "fieldType": "Picker",
+                        "fieldKeyboardType": "text",
+                        "fieldPlaceholder": "Type of Company *",
+                        "fieldValue": "",
+                        "fieldClassID": "company_type",
+                        "fieldIsRequired": true,
+                        "listItems": [
+                            "Government",
+                            "Private Ltd",
+                            "Public Ltd",
+                            "Proprietorship",
+                            "Partnership",
+                            "Other"
+                        ],
+                        "listItemsDetails": [
+                            [],
+                            [],
+                            [],
+                            [],
+                            [],
+                            [
+                                {
+                                    "fieldType": "Entry",
+                                    "fieldKeyboardType": "text",
+                                    "fieldPlaceholder": "Other Type of Company *",
+                                    "fieldValue": "",
+                                    "fieldClassID": "company_type_other",
+                                    "fieldIsRequired": true,
+                                    "listItems": [],
+                                    "listItemsDetails": []
+                                }
+                            ]
+                        ]
+                    },
+                    {
+                        "fieldType": "Picker",
+                        "fieldKeyboardType": "text",
+                        "fieldPlaceholder": "Employment Status *",
+                        "fieldValue": "",
+                        "fieldClassID": "employment_status",
+                        "listItems": [
+                            "Permanent",
+                            "3rd Party Contractual",
+                            "Company Contract"
+                        ],
+                        "listItemsDetails": []
+                    },
+                    {
+                        "fieldType": "Entry",
+                        "fieldKeyboardType": "text",
+                        "fieldPlaceholder": "Current Designation*",
+                        "fieldValue": "",
+                        "fieldClassID": "current_designation",
+                        "fieldIsRequired": true,
+                        "listItems": [],
+                        "listItemsDetails": []
+                    },
+                    {
+                        "fieldType": "Entry",
+                        "fieldKeyboardType": "text",
+                        "fieldPlaceholder": "Department*",
+                        "fieldValue": "",
+                        "fieldClassID": "current_department",
+                        "fieldIsRequired": true,
+                        "listItems": [],
+                        "listItemsDetails": []
+                    },
+                    {
+                        "fieldType": "Date",
+                        "fieldKeyboardType": "text",
+                        "fieldPlaceholder": "Overall Work Experience*",
+                        "fieldValue": "",
+                        "fieldClassID": "overall_work_experience",
+                        "fieldIsRequired": true,
+                        "listItems": [],
+                        "listItemsDetails": []
+                    },
+                    {
+                        "fieldType": "Date",
+                        "fieldKeyboardType": "text",
+                        "fieldPlaceholder": "Present Experience*",
+                        "fieldValue": "",
+                        "fieldClassID": "present_experience",
+                        "fieldIsRequired": true,
+                        "listItems": [],
+                        "listItemsDetails": []
+                    }
+                ],
+                [
+                    {
+                        "fieldType": "Picker",
+                        "fieldKeyboardType": "text",
+                        "fieldPlaceholder": "Profession Type *",
+                        "fieldValue": "",
+                        "fieldClassID": "profession_type",
+                        "fieldIsRequired": true,
+                        "listItems": [
+                            "Architect",
+                            "Chartered Accountant",
+                            "Doctor",
+                            "Engineer",
+                            "Other"
+                        ],
+                        "listItemsDetails": [
+                            [],
+                            [],
+                            [],
+                            [],
+                            [
+                                {
+                                    "fieldType": "Entry",
+                                    "fieldKeyboardType": "text",
+                                    "fieldPlaceholder": "Other Profession *",
+                                    "fieldValue": "",
+                                    "fieldClassID": "profession_type_other",
+                                    "fieldIsRequired": true,
+                                    "listItems": [],
+                                    "listItemsDetails": []
+                                }
+                            ]
+                        ]
+                    },
+                    {
+                        "fieldType": "Entry",
+                        "fieldKeyboardType": "text",
+                        "fieldPlaceholder": "Profession Name*",
+                        "fieldValue": "",
+                        "fieldClassID": "profession_name",
+                        "fieldIsRequired": true,
+                        "listItems": [],
+                        "listItemsDetails": []
+                    },
+                    {
+                        "fieldType": "Entry",
+                        "fieldKeyboardType": "text",
+                        "fieldPlaceholder": "Designation (If Any)*",
+                        "fieldValue": "",
+                        "fieldClassID": "designation_profession",
+                        "fieldIsRequired": true,
+                        "listItems": [],
+                        "listItemsDetails": []
+                    }
+                ],
+                [
+                    {
+                        "fieldType": "Entry",
+                        "fieldKeyboardType": "text",
+                        "fieldPlaceholder": "Business Name*",
+                        "fieldValue": "",
+                        "fieldClassID": "business_name",
+                        "fieldIsRequired": true,
+                        "listItems": [],
+                        "listItemsDetails": []
+                    },
+                    {
+                        "fieldType": "Picker",
+                        "fieldKeyboardType": "text",
+                        "fieldPlaceholder": "Type of Business *",
+                        "fieldValue": "",
+                        "fieldClassID": "business_type",
+                        "fieldIsRequired": true,
+                        "listItems": [
+                            "Private Ltd",
+                            "Public Ltd",
+                            "Proprietorship",
+                            "Partnership",
+                            "Other"
+                        ],
+                        "listItemsDetails": [
+                            [],
+                            [],
+                            [],
+                            [],
+                            [
+                                {
+                                    "fieldType": "Entry",
+                                    "fieldKeyboardType": "text",
+                                    "fieldPlaceholder": "Other Status of Company *",
+                                    "fieldValue": "",
+                                    "fieldClassID": "company_status_other",
+                                    "fieldIsRequired": true,
+                                    "listItems": [],
+                                    "listItemsDetails": []
+                                }
+                            ]
+                        ]
+                    },
+                    {
+                        "fieldType": "Picker",
+                        "fieldKeyboardType": "text",
+                        "fieldPlaceholder": "Nature of Business *",
+                        "fieldValue": "",
+                        "fieldClassID": "business_nature",
+                        "fieldIsRequired": true,
+                        "listItems": [
+                            "Services",
+                            "Retail",
+                            "Wholesales",
+                            "Trading",
+                            "Manufacturing"
+                        ],
+                        "listItemsDetails": []
+                    }
+                ]
+            ]
+        },
+        {
+            "fieldType": "Entry",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Designation/Profession*",
+            "fieldValue": "",
+            "fieldClassID": "designation_profession",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Entry",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Department/Nature of Business*",
+            "fieldValue": "",
+            "fieldClassID": "nature_of_business",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Entry",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Name of Employe/Company*",
+            "fieldValue": "",
+            "fieldClassID": "name_of_company",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Entry",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Office Address*",
+            "fieldValue": "",
+            "fieldClassID": "office_address",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Entry",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Office City*",
+            "fieldValue": "",
+            "fieldClassID": "office_city",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Entry",
+            "fieldKeyboardType": "number",
+            "fieldPlaceholder": "Office Number*",
+            "fieldValue": "",
+            "fieldClassID": "office_number",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Entry",
+            "fieldKeyboardType": "number",
+            "fieldPlaceholder": "Gross Monthly Income*",
+            "fieldValue": "",
+            "fieldClassID": "monthly_gross_income",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Entry",
+            "fieldKeyboardType": "number",
+            "fieldPlaceholder": "Net Monthly Income*",
+            "fieldValue": "",
+            "fieldClassID": "monthly_net_income",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Entry",
+            "fieldKeyboardType": "number",
+            "fieldPlaceholder": "Other Income*",
+            "fieldValue": "",
+            "fieldClassID": "other_income",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Entry",
+            "fieldKeyboardType": "number",
+            "fieldPlaceholder": "Other Source of Income*",
+            "fieldValue": "",
+            "fieldClassID": "other_source_income",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        }
+    ],
+    "reference": [
+        {
+            "fieldType": "Header",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Reference 1",
+            "fieldValue": "",
+            "fieldClassID": "",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Entry",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Name *",
+            "fieldValue": "",
+            "fieldClassID": "reference_name_1",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Entry",
+            "fieldKeyboardType": "number",
+            "fieldPlaceholder": "CNIC *",
+            "fieldValue": "",
+            "fieldClassID": "reference_cnic_1",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Entry",
+            "fieldKeyboardType": "number",
+            "fieldPlaceholder": "Mobile Number *",
+            "fieldValue": "",
+            "fieldClassID": "reference_mobile_1",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Relationship *",
+            "fieldValue": "",
+            "fieldClassID": "reference_relationship_1",
+            "fieldIsRequired": true,
+            "listItems": [
+                "Father",
+                "Mother",
+                "Sister",
+                "Brother",
+                "Wife",
+                "Sibling"
+            ],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Entry",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Residential Address *",
+            "fieldValue": "",
+            "fieldClassID": "reference_address_1",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Header",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Reference 2",
+            "fieldValue": "",
+            "fieldClassID": "",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Entry",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Name *",
+            "fieldValue": "",
+            "fieldClassID": "reference_name_2",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Entry",
+            "fieldKeyboardType": "number",
+            "fieldPlaceholder": "CNIC *",
+            "fieldValue": "",
+            "fieldClassID": "reference_cnic_2",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Entry",
+            "fieldKeyboardType": "number",
+            "fieldPlaceholder": "Mobile Number *",
+            "fieldValue": "",
+            "fieldClassID": "reference_mobile_2",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Relationship *",
+            "fieldValue": "",
+            "fieldClassID": "reference_relationship_2",
+            "fieldIsRequired": true,
+            "listItems": [
+                "Father",
+                "Mother",
+                "Sister",
+                "Brother",
+                "Wife",
+                "Sibling"
+            ],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Entry",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Residential Address *",
+            "fieldValue": "",
+            "fieldClassID": "reference_address_2",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        }
+    ],
+    "documents": [
+        {
+            "fieldType": "subHeading",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Upload Your Documents",
+            "fieldValue": "",
+            "fieldClassID": "",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Header",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "You are just a step away!",
+            "fieldValue": "",
+            "fieldClassID": "",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Button",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Salary Slip (Last 3 Months) *",
+            "fieldValue": "",
+            "fieldClassID": "income_upload_documents",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Button",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Bank Statement Last 6 Months *",
+            "fieldValue": "",
+            "fieldClassID": "statement_upload_documents",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Button",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Complete Business Proof *",
+            "fieldValue": "",
+            "fieldClassID": "business_prof_upload_documents",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Button",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Utility Bills *",
+            "fieldValue": "",
+            "fieldClassID": "residential_upload_documents",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Checkbox",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "I agree with Terms and Conditions agreement and key fact sheet of Faysal Bank Islamic Noor Card.",
+            "fieldValue": "",
+            "fieldClassID": "consent_checkbox",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        }
+    ],
+    "verification": [
+        {
+            "fieldType": "subHeading",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Verifications",
+            "fieldValue": "",
+            "fieldClassID": "",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Header",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "CNIC Number",
+            "fieldValue": "",
+            "fieldClassID": "txt_id_number",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Button",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Nadra Verification",
+            "fieldValue": "",
+            "fieldClassID": "nadra_verification",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Header",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Mobile Number",
+            "fieldValue": "",
+            "fieldClassID": "txt_mobile_number",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Button",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Sim Verification",
+            "fieldValue": "",
+            "fieldClassID": "sim_verification",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        },
+        {
+            "fieldType": "Button",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Digital Signature",
+            "fieldValue": "",
+            "fieldClassID": "digital_signature",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+        }
+    ]
+}

@@ -1,0 +1,1077 @@
+{
+  "noor_card": [
+    {
+      "isRequired": "true",
+      "fieldType": "AppBarHeading",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Card Selection",
+      "fieldValue": "true",
+      "fieldClassID": "",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Header",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Select Your Preferred Card",
+      "fieldValue": "",
+      "fieldClassID": "card_header",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Picker",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Product Type*",
+      "fieldValue": "",
+      "fieldClassID": "product_type",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Picker",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Product Type*",
+      "fieldValue": "",
+      "fieldClassID": "limit_info",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "slider",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Slider",
+      "fieldValue": "",
+      "fieldClassID": "Set_user_limit",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Entry",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Card Title",
+      "fieldValue": "Enter Card Title",
+      "fieldClassID": "card_name",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Discription_box",
+      "fieldKeyboardType": "",
+      "fieldPlaceholder": "Max 18 Characters",
+      "fieldValue": "",
+      "fieldClassID": "Discription_box",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Picker",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Customer Product Type *",
+      "fieldValue": "",
+      "fieldClassID": "customer_product_type",
+      "fieldIsRequired": true,
+      "listItems": [
+        "Faysal Islamic Noor Cards",
+        "Islami Personal Finance (IPF)",
+        "Faysal Car Finance",
+        "Housing Finance",
+        "Faysal Takmeel",
+        "Faysal Islami Solar Solution"
+      ],
+      "listItemsDetails": [
+        [
+          {
+            "isRequired": "true",
+            "fieldType": "Note",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Your name as you would like to appear on Card (19 characters allowed)",
+            "fieldValue": "",
+            "fieldClassID": "",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          }
+        ],
+        [
+          {
+            "isRequired": "true",
+            "fieldType": "Entry",
+            "fieldKeyboardType": "number",
+            "fieldPlaceholder": "Financing Amount *",
+            "fieldValue": "",
+            "fieldClassID": "financing_amount",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Financing Tenor *",
+            "fieldValue": "",
+            "fieldClassID": "ipf_tenor_type",
+            "fieldIsRequired": true,
+            "listItems": [
+              "12 Months",
+              "24 Months",
+              "36 Months",
+              "48 Months"
+            ],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Purpose of Financing *",
+            "fieldValue": "",
+            "fieldClassID": "ipf_purpose_type",
+            "fieldIsRequired": true,
+            "listItems": [
+              "Wedding",
+              "Vacation",
+              "Medical",
+              "Education",
+              "Other"
+            ],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Radio",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Installment Due Date",
+            "fieldValue": "",
+            "fieldClassID": "ipf_due_date",
+            "fieldIsRequired": true,
+            "listItems": [
+              "1st of every month",
+              "15th of every month"
+            ],
+            "listItemsDetails": []
+          }
+        ],
+        [
+          {
+            "isRequired": "true",
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Financing Type *",
+            "fieldValue": "",
+            "fieldClassID": "car_finance_type",
+            "fieldIsRequired": true,
+            "listItems": [
+              "Normal Financing",
+              "1st Year Deferred Payment",
+              "2nd Year Deferred Payment",
+              "Residual Value"
+            ],
+            "listItemsDetails": [
+              [
+                {
+                  "isRequired": "true",
+                  "fieldType": "Entry",
+                  "fieldKeyboardType": "number",
+                  "fieldPlaceholder": "RV % *",
+                  "fieldValue": "",
+                  "fieldClassID": "Residual Value",
+                  "fieldIsRequired": true,
+                  "listItems": [],
+                  "listItemsDetails": []
+                },
+                {
+                  "isRequired": "true",
+                  "fieldType": "Entry",
+                  "fieldKeyboardType": "number",
+                  "fieldPlaceholder": "RV Amount *",
+                  "fieldValue": "",
+                  "fieldClassID": "Residual Value",
+                  "fieldIsRequired": true,
+                  "listItems": [],
+                  "listItemsDetails": []
+                }
+              ]
+            ]
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Vehicle Type *",
+            "fieldValue": "",
+            "fieldClassID": "car_vehicle_type",
+            "fieldIsRequired": true,
+            "listItems": [
+              "BMW",
+              "Daewoo",
+              "Daihatsu",
+              "Honda",
+              "Hyundai",
+              "KIA"
+            ],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Type of Facility *",
+            "fieldValue": "",
+            "fieldClassID": "car_facility_type",
+            "fieldIsRequired": true,
+            "listItems": [
+              "Ready Delivery",
+              "Advance Booking"
+            ],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "EMI Type *",
+            "fieldValue": "",
+            "fieldClassID": "car_emi_type",
+            "fieldIsRequired": true,
+            "listItems": [
+              "Normal EMI"
+            ],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Manufacturer *",
+            "fieldValue": "",
+            "fieldClassID": "car_manufacturer_type",
+            "fieldIsRequired": true,
+            "listItems": [
+              "600CC",
+              "1000CC",
+              "1300CC"
+            ],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Make *",
+            "fieldValue": "",
+            "fieldClassID": "car_maker_type",
+            "fieldIsRequired": true,
+            "listItems": [
+              "BMW",
+              "Daewoo",
+              "Daihatsu",
+              "Honda",
+              "Hyundai",
+              "KIA"
+            ],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Model *",
+            "fieldValue": "",
+            "fieldClassID": "car_model_type",
+            "fieldIsRequired": true,
+            "listItems": [
+              "2002",
+              "2003",
+              "2004",
+              "2005"
+            ],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Entry",
+            "fieldKeyboardType": "number",
+            "fieldPlaceholder": "Vehicle Price *",
+            "fieldValue": "",
+            "fieldClassID": "vehicle_price",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Equity Contribution % *",
+            "fieldValue": "",
+            "fieldClassID": "car_equity_type",
+            "fieldIsRequired": true,
+            "listItems": [
+              "Toyota",
+              "Suzuki",
+              "MG",
+              "KIA"
+            ],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Entry",
+            "fieldKeyboardType": "number",
+            "fieldPlaceholder": "Financing Amount *",
+            "fieldValue": "",
+            "fieldClassID": "financing_amount",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Financing Tenor *",
+            "fieldValue": "",
+            "fieldClassID": "car_finance_tenor_type",
+            "fieldIsRequired": true,
+            "listItems": [
+              "1 Year",
+              "2 Year",
+              "3 Year",
+              "4 Year",
+              "5 Year",
+              "6 Year",
+              "7 Year"
+            ],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Takaful Company *",
+            "fieldValue": "",
+            "fieldClassID": "car_takaful_type",
+            "fieldIsRequired": true,
+            "listItems": [
+              "Toyota",
+              "Suzuki",
+              "MG",
+              "KIA"
+            ],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Radio",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Installment Due Date",
+            "fieldValue": "",
+            "fieldClassID": "car_due_date",
+            "fieldIsRequired": true,
+            "listItems": [
+              "1st of every month",
+              "15th of every month"
+            ],
+            "listItemsDetails": []
+          }
+        ],
+        [
+          {
+            "fieldType": "Entry",
+            "fieldKeyboardType": "number",
+            "fieldPlaceholder": "Financing Amount *",
+            "fieldValue": "",
+            "fieldClassID": "house_financing_amount",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          },
+          {
+            "fieldType": "Entry",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Address of the property *",
+            "fieldValue": "",
+            "fieldClassID": "property_address",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          },
+          {
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Financing Tenor *",
+            "fieldValue": "",
+            "fieldClassID": "home_finance_tenor_type",
+            "fieldIsRequired": true,
+            "listItems": [
+              "12 Months",
+              "24 Months",
+              "36 Months",
+              "48 Months"
+            ],
+            "listItemsDetails": []
+          },
+          {
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Type of Facility *",
+            "fieldValue": "",
+            "fieldClassID": "home_facility_type",
+            "fieldIsRequired": true,
+            "listItems": [
+              "Buy a Home",
+              "Buy a Land & Construction or Build a Home",
+              "Home Renovation",
+              "Refinance a Home"
+            ],
+            "listItemsDetails": [
+              [
+                {
+                  "fieldType": "Entry",
+                  "fieldKeyboardType": "number",
+                  "fieldPlaceholder": "Purchase Price *",
+                  "fieldValue": "",
+                  "fieldClassID": "Buy a Home",
+                  "fieldIsRequired": true,
+                  "listItems": [],
+                  "listItemsDetails": []
+                }
+              ],
+              [
+                {
+                  "fieldType": "Entry",
+                  "fieldKeyboardType": "number",
+                  "fieldPlaceholder": "Value of Land *",
+                  "fieldValue": "",
+                  "fieldClassID": "Buy a Land & Construction or Build a Home",
+                  "fieldIsRequired": true,
+                  "listItems": [],
+                  "listItemsDetails": []
+                },
+                {
+                  "fieldType": "Entry",
+                  "fieldKeyboardType": "number",
+                  "fieldPlaceholder": "Estimated Cost of Construction *",
+                  "fieldValue": "",
+                  "fieldClassID": "Buy a Land & Construction or Build a Home",
+                  "fieldIsRequired": true,
+                  "listItems": [],
+                  "listItemsDetails": []
+                },
+                {
+                  "fieldType": "Entry",
+                  "fieldKeyboardType": "text",
+                  "fieldPlaceholder": "Total Amount *",
+                  "fieldValue": "",
+                  "fieldClassID": "Buy a Land & Construction or Build a Home",
+                  "fieldIsRequired": true,
+                  "listItems": [],
+                  "listItemsDetails": []
+                }
+              ],
+              [
+                {
+                  "fieldType": "Entry",
+                  "fieldKeyboardType": "number",
+                  "fieldPlaceholder": "Property Price *",
+                  "fieldValue": "",
+                  "fieldClassID": "Home Renovation",
+                  "fieldIsRequired": true,
+                  "listItems": [],
+                  "listItemsDetails": []
+                },
+                {
+                  "fieldType": "Entry",
+                  "fieldKeyboardType": "text",
+                  "fieldPlaceholder": "Estimated Cost of Renovation *",
+                  "fieldValue": "",
+                  "fieldClassID": "Home Renovation",
+                  "fieldIsRequired": true,
+                  "listItems": [],
+                  "listItemsDetails": []
+                }
+              ],
+              [
+                {
+                  "fieldType": "Entry",
+                  "fieldKeyboardType": "number",
+                  "fieldPlaceholder": "Property Price *",
+                  "fieldValue": "",
+                  "fieldClassID": "Refinance a Home",
+                  "fieldIsRequired": true,
+                  "listItems": [],
+                  "listItemsDetails": []
+                },
+                {
+                  "fieldType": "Entry",
+                  "fieldKeyboardType": "number",
+                  "fieldPlaceholder": "Amount to be Refinance *",
+                  "fieldValue": "",
+                  "fieldClassID": "Refinance a Home",
+                  "fieldIsRequired": true,
+                  "listItems": [],
+                  "listItemsDetails": []
+                },
+                {
+                  "fieldType": "Entry",
+                  "fieldKeyboardType": "text",
+                  "fieldPlaceholder": "Name of Financial Institution *",
+                  "fieldValue": "",
+                  "fieldClassID": "Refinance a Home",
+                  "fieldIsRequired": true,
+                  "listItems": [],
+                  "listItemsDetails": []
+                }
+              ]
+            ]
+          },
+          {
+            "fieldType": "Radio",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Installment Due Date",
+            "fieldValue": "",
+            "fieldClassID": "housing_due_date",
+            "fieldIsRequired": true,
+            "listItems": [
+              "1st of every month",
+              "15th of every month"
+            ],
+            "listItemsDetails": []
+          }
+        ],
+        [
+          {
+            "fieldType": "Entry",
+            "fieldKeyboardType": "number",
+            "fieldPlaceholder": "Financing Amount *",
+            "fieldValue": "",
+            "fieldClassID": "Faysal Takmeel",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          },
+          {
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Financing Tenor *",
+            "fieldValue": "",
+            "fieldClassID": "Faysal Takmeel",
+            "fieldIsRequired": true,
+            "listItems": [
+              "6 Months",
+              "12 Months",
+              "18 Months",
+              "24 Months",
+              "30 Months",
+              "36 Months"
+            ],
+            "listItemsDetails": []
+          },
+          {
+            "fieldType": "Radio",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Installment Due Date",
+            "fieldValue": "",
+            "fieldClassID": "Faysal Takmeel",
+            "fieldIsRequired": true,
+            "listItems": [
+              "2nd of every month",
+              "15th of every month"
+            ],
+            "listItemsDetails": []
+          }
+        ],
+        [
+          {
+            "fieldType": "Entry",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Brand Name / Vendor *",
+            "fieldValue": "",
+            "fieldClassID": "Faysal Islami Solar Solution",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          },
+          {
+            "fieldType": "Entry",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Product Specification (in KVA) *",
+            "fieldValue": "",
+            "fieldClassID": "Faysal Islami Solar Solution",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          },
+          {
+            "fieldType": "Entry",
+            "fieldKeyboardType": "number",
+            "fieldPlaceholder": "Product Price *",
+            "fieldValue": "",
+            "fieldClassID": "Faysal Islami Solar Solution",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          },
+          {
+            "fieldType": "Entry",
+            "fieldKeyboardType": "number",
+            "fieldPlaceholder": "Equity Amount *",
+            "fieldValue": "",
+            "fieldClassID": "Faysal Islami Solar Solution",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          },
+          {
+            "fieldType": "Entry",
+            "fieldKeyboardType": "number",
+            "fieldPlaceholder": "Financing Amount *",
+            "fieldValue": "",
+            "fieldClassID": "Faysal Islami Solar Solution",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          },
+          {
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Financing Tenor *",
+            "fieldValue": "",
+            "fieldClassID": "Faysal Islami Solar Solution",
+            "fieldIsRequired": true,
+            "listItems": [
+              "6 Months",
+              "12 Months",
+              "18 Months",
+              "24 Months",
+              "30 Months",
+              "36 Months"
+            ],
+            "listItemsDetails": []
+          },
+          {
+            "fieldType": "Radio",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Installment Due Date",
+            "fieldValue": "",
+            "fieldClassID": "Faysal Islami Solar Solution",
+            "fieldIsRequired": true,
+            "listItems": [
+              "2nd of every month",
+              "15th of every month"
+            ],
+            "listItemsDetails": []
+          }
+        ]
+      ]
+    }
+  ],
+  "personal": [
+    {
+      "isRequired": "true",
+      "fieldType": "AppBarHeading",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Personal Information",
+      "fieldValue": "true",
+      "fieldClassID": "",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Header",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Let's Review Your Details",
+      "fieldValue": "",
+      "fieldClassID": "review_header",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Picker",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Educational Qualification",
+      "fieldValue": "Select Educational Qualification",
+      "fieldClassID": "educational_qualification",
+      "fieldIsRequired": true,
+      "listItems": [
+        "Primary School",
+        "Bachelor's Degree",
+        "Master's Degree",
+        "Doctorate"
+      ],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Picker",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Marital Status",
+      "fieldValue": "Select Marital Status",
+      "fieldClassID": "marital_status",
+      "fieldIsRequired": true,
+      "listItems": [
+        "Single",
+        "Married",
+        "Divorced"
+      ],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Picker",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Number of Dependents",
+      "fieldValue": "Select Number of Dependents",
+      "fieldClassID": "number_of_dependents",
+      "fieldIsRequired": true,
+      "listItems": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20"
+      ],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Picker",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Residence Ownership Status",
+      "fieldValue": "Select your residential Status",
+      "fieldClassID": "residential_status",
+      "fieldIsRequired": true,
+      "listItems": [
+        "Rent",
+        "Own"
+      ],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Picker",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Type of Accommodation",
+      "fieldValue": "Select Type of Accommodation",
+      "fieldClassID": "type_of_accommodation",
+      "fieldIsRequired": true,
+      "listItems": [
+        "Home",
+        "Apartment",
+        "Flat"
+      ],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Picker",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Living Duration at Current Address",
+      "fieldValue": "Select your Living Duration",
+      "fieldClassID": "living_duration_at_current_address",
+      "fieldIsRequired": true,
+      "listItems": [
+        "Up to 06 months",
+        "Up to 12 months",
+        "Up to 24 months",
+        "Up to 48 months"
+      ],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Entry",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Department you work in",
+      "fieldValue": "Enter your department you work in",
+      "fieldClassID": "department_you_work_in",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Entry",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Current Designation",
+      "fieldValue": "Enter Your Current Designation",
+      "fieldClassID": "current_designation",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Date",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Present Experience",
+      "fieldValue": "",
+      "fieldClassID": "present_experience",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Date",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Overall Work Experience",
+      "fieldValue": "",
+      "fieldClassID": "overall_work_experience",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Checkbox",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "sss",
+      "fieldValue": "",
+      "fieldClassID": "agreements",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    }
+  ],
+  "Preferences": [
+    {
+      "isRequired": "true",
+      "fieldType": "AppBarHeading",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Preferences",
+      "fieldValue": "true",
+      "fieldClassID": "",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Header",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Make your Selection",
+      "fieldValue": "",
+      "fieldClassID": "",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Radio",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Do you want to recieve E-Statement?",
+      "fieldValue": "",
+      "fieldClassID": "e_statement",
+      "fieldIsRequired": true,
+      "listItems": [
+        "Yes",
+        "No"
+      ],
+      "listItemsDetails": []
+    },
+    {
+      "fieldType": "Radio",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Auto-Debit Authority",
+      "fieldValue": "",
+      "fieldClassID": "Auto_Debit_Authority",
+      "fieldIsRequired": true,
+      "listItems": [
+        "Minimum Payment",
+        "Full Payment"
+      ],
+      "listItemsDetails": [
+        "Account 1",
+        "Account 2",
+        "Account 3"
+      ]
+    }
+  ],
+  "cf1": [
+    {
+      "isRequired": "true",
+      "fieldType": "AppBarHeading",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Declaration",
+      "fieldValue": "true",
+      "fieldClassID": "",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Header",
+      "fieldKeyboardType": "text",
+      "fieldPlaceholder": "Financial Liabilities",
+      "fieldValue": "",
+      "fieldClassID": "",
+      "fieldIsRequired": true,
+      "listItems": [],
+      "listItemsDetails": []
+    },
+    {
+      "isRequired": "true",
+      "fieldType": "Radio",
+      "fieldKeyboardType": "number",
+      "fieldPlaceholder": "Availing any Financial Facility?",
+      "fieldValue": "",
+      "fieldClassID": "Availing_Financial",
+      "fieldIsRequired": true,
+      "listItems": [
+        "Yes",
+        "No"
+      ],
+      "listItemsDetails": [
+        [
+          {
+            "isRequired": "true",
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Name of Bank / Financial Institution",
+            "fieldValue": "Select Name of bank",
+            "fieldClassID": "name_of_bank_two",
+            "fieldIsRequired": true,
+            "listItems": [
+              "National Bank of Pakistan (NBP)",
+              "The Bank of Punjab (BOP)",
+              "The Bank of Khyber (BOK)",
+              "Sindh Bank Limited",
+              "First Women Bank Limited",
+              "Zarai Taraqiati Bank Limited (ZTBL)",
+              "SME Bank Limited",
+              "Industrial Development Bank of Pakistan",
+              "Allied Bank Limited (ABL)",
+              "Askari Bank Limited",
+              "Bank AL Habib Limited (BAHL)",
+              "Bank Alfalah Limited",
+              "Faysal Bank Limited",
+              "Habib Bank Limited (HBL)",
+              "Habib Metropolitan Bank Limited",
+              "JS Bank Limited",
+              "MCB Bank Limited",
+              "MCB Islamic Bank Limited",
+              "Soneri Bank Limited",
+              "Standard Chartered Bank (Pakistan) Limited",
+              "United Bank Limited (UBL)",
+              "Silkbank Limited",
+              "Summit Bank Limited",
+              "Samba Bank Limited",
+              "Meezan Bank Limited",
+              "BankIslami Pakistan Limited",
+              "Al Baraka Bank (Pakistan) Limited",
+              "Dubai Islamic Bank Pakistan Limited",
+              "Citibank N.A.",
+              "Deutsche Bank AG",
+              "Industrial and Commercial Bank of China Limited (ICBC)",
+              "Bank of China",
+              "The Hongkong and Shanghai Banking Corporation (HSBC)",
+              "The Bank of Tokyo-Mitsubishi UFJ",
+              "Standard Chartered Bank",
+              "Microfinance Banks",
+              "Khushhali Microfinance Bank Limited",
+              "First MicroFinance Bank Limited",
+              "U Microfinance Bank Limited",
+              "FINCA Microfinance Bank Limited",
+              "Mobilink Microfinance Bank Limited",
+              "Apna Microfinance Bank Limited",
+              "NRSP Microfinance Bank Limited",
+              "Pak Oman Microfinance Bank Limited",
+              "Advans Pakistan Microfinance Bank Limited",
+              "Sindh Microfinance Bank Limited",
+              "House Building Finance Corporation"
+            ],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Picker",
+            "fieldKeyboardType": "text",
+            "fieldPlaceholder": "Product Type",
+            "fieldValue": "Select Product type",
+            "fieldClassID": "product_under_type",
+            "fieldIsRequired": true,
+            "listItems": [
+              "Credit Card",
+              "Personal Loan",
+              "Home Finance",
+              "Car Finance"
+            ],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Entry",
+            "fieldKeyboardType": "number",
+            "fieldPlaceholder": "Applied Limit",
+            "fieldValue": "Enter your Applied Limit",
+            "fieldClassID": "approved_limit_two",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Entry",
+            "fieldKeyboardType": "number",
+            "fieldPlaceholder": "Outstanding Amount",
+            "fieldValue": "Enter your Outstanding Amount",
+            "fieldClassID": "outstanding_amount",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          },
+          {
+            "isRequired": "true",
+            "fieldType": "Entry",
+            "fieldKeyboardType": "number",
+            "fieldPlaceholder": "Tenure",
+            "fieldValue": "Enter tenure",
+            "fieldClassID": "tenure",
+            "fieldIsRequired": true,
+            "listItems": [],
+            "listItemsDetails": []
+          }
+        ]
+      ]
+    }
+  ]
+}

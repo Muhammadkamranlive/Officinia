@@ -1,0 +1,26 @@
+
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "6U496GYW52.com.autosoftapps.officina"
+        ],
+        "paths": [
+          "*"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "6U496GYW52.com.autosoftapps.officina"
+    ]
+  }
+}

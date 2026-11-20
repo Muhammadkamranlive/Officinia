@@ -1,0 +1,76 @@
+{
+    "noorCard_steps": [
+        {
+            "number": 0,
+            "name": "Start",
+            "icon": "Arrow"
+        },
+        {
+            "number": 1,
+            "name": "Occupation",
+            "icon": "work"
+        },
+        {
+            "number": 2,
+            "name": "Noor card",
+            "icon": "credit_card"
+        },
+        {
+            "number": 3,
+            "name": "Personal",
+            "icon": "person"
+        },
+        {
+            "number": 4,
+            "name": "Selfie",
+            "icon": "camera_alt"
+        },
+        {
+            "number": 5,
+            "name": "Residential",
+            "icon": "home"
+        },
+        {
+            "number": 6,
+            "name": "Documents",
+            "icon": "description"
+        },
+        {
+            "number": 7,
+            "name": "Verification",
+            "icon": "check_circle"
+        }
+    ],
+    "account_opening": [
+        {
+            "number": 0,
+            "name": "Start",
+            "icon": "Arrow"
+        },
+        {
+            "number": 1,
+            "name": "Occupation",
+            "icon": "work"
+        },
+        {
+            "number": 3,
+            "name": "Personal",
+            "icon": "person"
+        },
+        {
+            "number": 5,
+            "name": "Residential",
+            "icon": "home"
+        },
+        {
+            "number": 6,
+            "name": "Documents",
+            "icon": "description"
+        },
+        {
+            "number": 7,
+            "name": "Verification",
+            "icon": "check_circle"
+        }
+    ]
+}

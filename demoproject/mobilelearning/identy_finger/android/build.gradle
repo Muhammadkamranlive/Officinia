@@ -1,0 +1,76 @@
+group 'io.identy.identy_finger'
+version '1.0'
+
+buildscript {
+    repositories {
+        google()
+        jcenter()
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:4.1.0'
+    }
+}
+
+rootProject.allprojects {
+    repositories {
+        google()
+        jcenter()
+
+        maven {
+            url "https://identy.jfrog.io/identy/identy-finger-release"
+            credentials {
+                username = "rayyanco"
+                password = "Rfvtgb3298"
+            }
+        }
+
+    }
+}
+
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 33
+
+    defaultConfig {
+        minSdkVersion 26
+
+        renderscriptTargetApi 33
+        renderscriptSupportModeEnabled true
+
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'com.android.support.constraint:constraint-layout:1.0.2'
+    implementation 'com.android.support:design:26.+'
+
+    //implementation(group: 'com.identy.app', name: 'finger', version: '5.7.0', ext: 'aar')
+    implementation(group: 'com.identy.app', name: 'finger', version: '3.0.3.3', ext: 'aar')
+
+    implementation 'com.android.volley:volley:1.1.0'
+    api 'com.google.android.gms:play-services-safetynet:11.0.1'
+
+    def room_version = "1.1.0"
+
+    implementation "android.arch.persistence.room:runtime:$room_version"
+    annotationProcessor "android.arch.persistence.room:compiler:$room_version"
+
+    /*
+    compile ('android.arch.lifecycle:livedata:1.1.0') {
+        force = true;
+    }
+    compile ('android.arch.lifecycle:viewmodel:1.1.0') {
+        force = true;
+    }
+     */
+
+    implementation ('android.arch.lifecycle:livedata:1.1.0') {
+        force = true;
+    }
+    implementation ('android.arch.lifecycle:viewmodel:1.1.0') {
+        force = true;
+    }
+}

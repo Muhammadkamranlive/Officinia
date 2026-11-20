@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "429018063802",
+    "project_id": "noreply-officina",
+    "storage_bucket": "##############"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429018063802:android:793e31978f8802cf757383",
+        "android_client_info": {
+          "package_name": "com.autosoftapps.officina"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "##############",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.autosoftapps.officina",
+            "certificate_hash": "931af3961c5cecd45b8e58dd57eeb28e8aa4d981"
+          }
+        },
+        {
+          "client_id": "##############",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.autosoftapps.officina",
+            "certificate_hash": "f0d0c24798a7c1ebcae288fc7eca3d9567109c93"
+          }
+        },
+        {
+          "client_id": "##############",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.autosoftapps.officina",
+            "certificate_hash": "fca92e50f7e667d72683320d1a908a5810ec8df2"
+          }
+        },
+        {
+          "client_id": "##############",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8T54MJJJpnFWVeVpZhFjfB9qPs9su470"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "##############",
+              "client_type": 3
+            },
+            {
+              "client_id": "##############",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.client"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

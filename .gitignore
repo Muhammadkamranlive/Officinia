@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+.env
+.env.*
+!.env.example
+!.env.sample
+/Client/functions/noreply-officina-firebase-adminsdk-fbsvc-1c6de1f187.json
+/Server/API/ServerApi/appsettings.json

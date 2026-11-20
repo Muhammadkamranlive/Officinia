@@ -1,0 +1,1498 @@
+{
+  "@@locale": "en",
+  "app_title": "Ophicina",
+  "tagline": "Your opportunity is here",
+  "role_job_seeker": "I am a Job Seeker",
+  "role_recruiter": "I am a Recruiter",
+  "onboarding_title": "Welcome to Ophicina",
+  "onboarding_subtitle": "Connecting pharmacy professionals with the right opportunities.",
+  "login_title": "Login to Ophicina",
+  "login_subtitle_email": "Secure login using your email",
+  "login_subtitle_phone": "Secure login using your phone number",
+  "email_label": "Email",
+  "password_label": "Password",
+  "forgot_password": "Forgot your password?",
+  "sign_in_button": "Sign In",
+  "create_account": "Create new account",
+  "welcome_to_ophicina": "Welcome to Ophicina",
+  "signup_subtitle": "Join the professional healthcare network",
+  "confirm_password_label": "Confirm Password",
+  "already_have_account": "Already have an account?",
+  "join_ophicina": "Join Ophicina",
+  "join_subtitle": "Create an account to discover opportunities",
+  "signup_with_email": "Sign up with Email",
+  "signup_with_google": "Sign up with Google",
+  "signup_with_apple": "Sign up with Apple",
+  "deletion_queue_error": "Your account deletion is pending. Please use a different email or phone.",
+  "email_required": "Email is required",
+  "valid_email_error": "Please enter a valid email address",
+  "password_required": "Password is required",
+  "password_format_error": "Password must be at least 6 characters long, include 1 uppercase, 1 lowercase, and 1 number",
+  "confirm_password_required": "Please confirm your password",
+  "passwords_dont_match": "Passwords do not match",
+  "signup_successful": "Signup successful!",
+  "enter_valid_email": "Please enter a valid email",
+  "enter_password": "Please enter password",
+  "enter_phone": "Enter phone number",
+  "enter_valid_algerian": "Enter a valid Algerian number (5, 6 or 7 followed by 8 digits)",
+  "enter_valid_pakistani": "Enter a valid Pakistani number (3 followed by 9 digits)",
+  "otp_sent_to": "OTP sent to {phone}",
+  "@otp_sent_to": {
+    "placeholders": {
+      "phone": {
+        "type": "String"
+      }
+    }
+  },
+  "otp_not_sent": "OTP not sent yet",
+  "otp_complete": "Enter complete 6-digit OTP",
+  "account_not_found": "Your account was not found, please register yourself first",
+  "login_here": "Login Here",
+  "login_subtitle_welcome": "Access your Ophicina account securely with your preferred method",
+  "login_with_email": "Login with Email",
+  "login_with_google": "Login with Google",
+  "login_with_apple": "Login with Apple",
+  "sign_in": "Sign In",
+  "sign_up": "Sign Up",
+  "language": "Language",
+  "english": "English",
+  "french": "French",
+  "arabic": "Arabic",
+  "hi_user": "Hi, {name}",
+  "@hi_user": {
+    "placeholders": {
+      "name": {
+        "type": "String"
+      }
+    }
+  },
+  "my_account": "My Account",
+  "post_job": "Post a Job",
+  "post_job_desc": "Reach pharmacists by listing your vacancy",
+  "edit_profile": "Edit profile",
+  "edit_profile_desc": "Edit profile & Pharmacy Detail",
+  "report_issue": "Report an Issue",
+  "report_issue_desc": "Report bugs & issues",
+  "reported_issues": "Reported Issues",
+  "reported_issues_desc": "View your reported issues",
+  "logout": "Logout",
+  "logout_desc": "Sign out of your account",
+  "delete_account": "Delete Account",
+  "delete_account_desc": "This will delete your account",
+  "jobs_status_overview": "Job Offer Status Overview",
+  "jobs_open_count": "You currently have {active} of {total} jobs open and accepting new applications",
+  "@jobs_open_count": {
+    "placeholders": {
+      "active": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "manage_account": "Manage Account",
+  "active": "Active",
+  "open_jobs": "Open Jobs",
+  "open_jobs_count": "{open} of {total} open",
+  "@open_jobs_count": {
+    "placeholders": {
+      "open": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "filled_positions": "Filled Positions",
+  "filled_positions_count": "{filled} of {total} filled",
+  "@filled_positions_count": {
+    "placeholders": {
+      "filled": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "skill_verification_requests": "Skill Verifications Requests",
+  "pending_requests_count": "{count} pending requests",
+  "@pending_requests_count": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "view": "View",
+  "hiring_activity": "Your Hiring Activity",
+  "review_profiles": "Review Profiles",
+  "reviewed_count": "Reviewed: {reviewed}/{total}",
+  "@reviewed_count": {
+    "placeholders": {
+      "reviewed": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "chat_card": "Chat",
+  "read_count": "Read: {read}/{total}",
+  "@read_count": {
+    "placeholders": {
+      "read": {
+        "type": "int"
+      },
+      "total": {
+        "type": "int"
+      }
+    }
+  },
+  "all_time_job_stats": "All Time Job Offers Statistics",
+  "no_job_offers_stats": "No job offers available to display statistics.",
+  "no_stats_available": "No statistics available",
+  "candidates": "Candidates",
+  "candidates_count": "{count} Candidates",
+  "@candidates_count": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "upcoming_hiring_actions": "Upcoming Hiring Actions",
+  "see_all": "See all",
+  "create_account_title": "Create Account",
+  "edit_profile_title": "Edit Profile",
+  "my_account_title": "My Account",
+  "update_profile_picture": "Update Profile Picture",
+  "personal_information": "Personal Information",
+  "first_name": "First Name",
+  "first_name_hint": "Anabella",
+  "last_name": "Last Name",
+  "last_name_hint": "Angela",
+  "pharmacy_location_title": "Pharmacy & Location",
+  "pharmacy_name": "Pharmacy Name",
+  "pharmacy_name_hint": "GreenCare Pharmacy",
+  "wilaya": "Wilaya",
+  "select_province": "Select Province",
+  "city": "City",
+  "select_province_first": "Select province first",
+  "loading_dots": "Loading...",
+  "select_city": "Select City",
+  "pharmacy_location_tile": "Pharmacy Location",
+  "tap_to_set_location": "Tap to set location on map",
+  "set_btn": "Set",
+  "change_btn": "Change",
+  "save_changes": "Save Changes",
+  "create_account_btn": "Create Account",
+  "all_rights_reserved": "All rights reserved",
+  "profile_photo_title": "Profile Photo",
+  "crop_photo": "Crop Photo",
+  "profile_picture_updated": "Profile picture updated",
+  "failed_to_update": "Failed: {error}",
+  "@failed_to_update": {
+    "placeholders": {
+      "error": {
+        "type": "String"
+      }
+    }
+  },
+  "camera": "Camera",
+  "gallery": "Gallery",
+  "remove_photo": "Remove photo",
+  "save_btn": "Save",
+  "change_action": "Change",
+  "recrop_action": "Recrop",
+  "add_profile_photo_btn": "Add profile photo",
+  "normal_filter": "Normal",
+  "verify_jobseeker_skills_title": "Verify Jobseeker Skills",
+  "failed_to_load_requests": "Failed to load requests",
+  "no_pending_skill_requests": "No pending skill requests",
+  "anonymous_candidate": "Anonymous Candidate",
+  "verify_skills_btn": "Verify Skills",
+  "skill_verification_completed_notif_title": "Skill Verification Completed",
+  "skill_verification_completed_notif_desc": "Your skills have been reviewed by the recruiter.",
+  "skills_to_review_label": "Skills to Review",
+  "note_from_jobseeker_label": "Note from Job Seeker",
+  "no_note_provided": "No note provided by the job seeker.",
+  "mark_verification_completed_btn": "Mark Verification as Completed",
+  "all_skills_reviewed_msg": "All skills have already been reviewed for this job seeker.",
+  "pending_review_status": "Pending Review",
+  "phone_label": "Phone",
+  "city_label": "City",
+  "education_label": "Education",
+  "experience_label": "Experience",
+  "wilaya_label": "Wilaya",
+  "na_value": "N/A",
+  "verify_action": "Verify",
+  "reject_action": "Reject",
+  "verified_count_label": "{count} verified",
+  "rejected_count_label": "{count} rejected",
+  "closed_jobs": "Closed Jobs",
+  "view_details": "View Details",
+  "job_type_label": "Job Type",
+  "open_status": "Open",
+  "closed_status": "Closed",
+  "edit_job": "Edit Job",
+  "delete_job": "Delete Job",
+  "close_job": "Close Job",
+  "delete_job_confirm_title": "Delete Job",
+  "delete_job_confirm_msg": "Do you really want to delete this job?\n\nThis action is permanent and you will NOT be able to recover this job.",
+  "close_job_confirm_title": "Close Job",
+  "close_job_confirm_msg": "Do you really want to close this job?\n\nOnce closed, this job will no longer be active for applicants.",
+  "cancel": "Cancel",
+  "delete": "Delete",
+  "no_job_offers_yet": "No job offers yet",
+  "create_first_job_offer": "Create your first job offer to get started",
+  "posted_jobs": "Posted Jobs",
+  "just_now": "Just now",
+  "min_ago": "{count} min ago",
+  "@min_ago": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "hours_ago": "{count} hours ago",
+  "@hours_ago": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "days_ago": "{count} days ago",
+  "@days_ago": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "weeks_ago": "{count} weeks ago",
+  "@weeks_ago": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "months_ago": "{count} months ago",
+  "@months_ago": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "years_ago": "{count} years ago",
+  "@years_ago": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "per_year": "/ Year",
+  "k_per_year": "K / Year",
+  "m_per_year": "M / Year",
+  "job_title_pharmacist": "Pharmacist",
+  "job_title_gerant": "Gerant",
+  "job_title_physician": "Physician",
+  "job_title_senior_salesperson": "Senior Salesperson",
+  "job_title_sales_specialist": "Sales Specialist",
+  "job_title_intern": "Intern",
+  "job_title_labeling_specialist": "Labeling Specialist",
+  "job_title_data_entry_specialist": "Data Entry Specialist",
+  "job_title_stock_management_specialist": "Stock Management Specialist",
+  "job_type_full_time": "Full Time",
+  "job_type_part_time": "Part Time",
+  "job_type_replacement": "Replacement",
+  "chats": "Chats",
+  "search_chats": "Search chats",
+  "no_chats_yet": "No chats yet",
+  "you": "You: {message}",
+  "@you": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "typing": "Typing...",
+  "no_messages_yet": "No messages yet",
+  "type_a_message": "Type a message...",
+  "please_select_job_title": "Please select a job title.",
+  "please_select_job_type": "Please select a job type.",
+  "please_add_skill": "Please add at least one skill.",
+  "recruiter_profile_not_found": "Recruiter profile not found.",
+  "account_not_active": "Your account is not active. Please logout and login again or contact support.",
+  "active_listing_required": "An active listing period is required to post pharmacy vacancies.",
+  "select_skills": "Select Skills",
+  "no_skills_available": "No skills available",
+  "create_job_offer": "Create Job Offer",
+  "edit_job_offer": "Edit Job Offer",
+  "job_details": "Job Details",
+  "job_details_desc": "Fill in the details to post your job offer",
+  "job_title": "Job Title",
+  "job_type": "Job Type",
+  "required_skills": "Required Skills",
+  "required_skills_desc": "Add skills that candidates must have",
+  "add_skills": "Add Skills",
+  "post_job_btn": "Post Job",
+  "update_job_btn": "Update Job",
+  "search_skills_or_positions": "Search skills or positions…",
+  "no_matches_for_query": "No matches for \"{query}\"",
+  "@no_matches_for_query": {
+    "placeholders": {
+      "query": {
+        "type": "String"
+      }
+    }
+  },
+  "skill": "Skill",
+  "position": "Position",
+  "clear_all": "Clear all",
+  "clear_text": "Clear",
+  "show_profiles_selected_count": "Show profiles  ·  {count} selected",
+  "@show_profiles_selected_count": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "show_all_profiles": "Show all profiles",
+  "job_seeker_profiles": "Job Seeker Profiles",
+  "job_seeker_location": "Job Seeker Location",
+  "candidate_location": "Candidate Location",
+  "location_not_shared": "Location Not Shared",
+  "location_not_shared_desc": "This job seeker has not shared\ntheir location yet.",
+  "verified_skills": "Verified Skills",
+  "unverified": "Unverified",
+  "skills": "Skills",
+  "contact_and_location": "Contact & Location",
+  "block_profile": "Block Profile",
+  "block_user_account": "Block User Account",
+  "block_user_reason_desc": "Please provide a reason. This message will be shown to the user.",
+  "enter_block_reason": "Enter block reason...",
+  "reason_is_required": "Reason is required",
+  "confirm_block": "Confirm Block",
+  "user_account_blocked": "User account blocked",
+  "profiles_on_map": "{count, plural, =1 {1 profile on map} other {{count} profiles on map}}",
+  "@profiles_on_map": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "tap_pin_or_scroll": "Tap a pin or scroll below",
+  "profile": "Profile",
+  "no_skills_listed": "No skills listed",
+  "plus_more_count": "+{count} more",
+  "@plus_more_count": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "view_profile": "View Profile",
+  "no_profiles_match_filters": "No profiles match your filters",
+  "filter_profiles_hint": "Filter profiles…",
+  "active_filters_count": "{count} active",
+  "@active_filters_count": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "show_results": "Show results",
+  "search_wilaya": "Search wilaya…",
+  "address": "Address",
+  "district": "District",
+  "experience": "Experience",
+  "education": "Education",
+  "chat": "Chat",
+  "no_profiles_location_hint": "No profiles have shared their location yet",
+  "notifications": "Notifications",
+  "notifications_unread": "{count} unread",
+  "@notifications_unread": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "mark_all_read": "Mark all read",
+  "all_notifications_marked_as_read": "All notifications marked as read",
+  "no_notifications_title": "No notifications yet",
+  "no_notifications_subtitle": "You're all caught up!",
+  "notification_detail": "Notification Detail",
+  "job_not_found_error": "Job not found or has been removed.",
+  "see_skill_requests": "See Skill Requests",
+  "view_my_applications": "View My Applications",
+  "view_job": "View Job",
+  "type_login": "Login",
+  "type_logout": "Logout",
+  "type_payment": "Payment",
+  "type_job_post": "Job Post",
+  "type_application": "Application",
+  "type_skill_verified": "Skill Verified",
+  "type_message": "Message",
+  "type_general": "General",
+  "post_job_appbar_title": "Post a Job",
+  "test_mode_badge": "TEST MODE",
+  "submitting_listing_request_banner": "Submitting your listing request… Please wait.",
+  "test_mode_banner_title": "Test Mode — No real money charged",
+  "test_card_details_label": "Test card details (EDAHABIA):",
+  "test_card_number_label": "Card number",
+  "test_card_expiry_label": "Expiry",
+  "test_card_future_date_label": "Any future date",
+  "test_card_otp_label": "OTP",
+  "active_plan_label": "Active Plan",
+  "no_active_plan_label": "No Active Plan",
+  "annual_job_listing_title": "Annual Job Listing — Pharmacy {year}",
+  "@annual_job_listing_title": {
+    "placeholders": {
+      "year": {
+        "type": "int"
+      }
+    }
+  },
+  "list_vacancy_hint_subtitle": "List a vacancy to reach verified pharmacists",
+  "payment_expires_label": "Expires",
+  "payment_days_left_label": "Days left",
+  "payment_days_count": "{count} days",
+  "@payment_days_count": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "payment_paid_label": "Paid",
+  "payment_method_label": "Method",
+  "payment_method_edahabia": "EDAHABIA",
+  "payment_method_cib": "CIB",
+  "payment_method_unknown": "—",
+  "listing_expires_warning_banner": "Your job listing expires in {days} days. Relist to stay visible.",
+  "@listing_expires_warning_banner": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "list_pharmacy_vacancy_btn": "List Your Pharmacy Vacancy",
+  "list_another_vacancy_btn": "List Another Vacancy",
+  "job_posting_history_title": "Job Posting History",
+  "payment_test_success_toast": "Test payment successful. Job listing activated.",
+  "payment_success_toast": "Job listing activated. Your vacancy is now visible to pharmacists.",
+  "submit_listing_request_error": "Could not submit your listing request. Please try again.",
+  "payment_connection_error": "Connection error. Check your network and try again.",
+  "listing_request_failed_error": "Listing request failed: {message}",
+  "@listing_request_failed_error": {
+    "placeholders": {
+      "message": {
+        "type": "String"
+      }
+    }
+  },
+  "listing_service_unreachable_error": "Could not reach the listing service. Try again.",
+  "payment_generic_error": "Something went wrong. Please try again.",
+  "payment_incomplete_error": "Payment was not completed. Please try again.",
+  "report_issue_title": "Report Issue",
+  "edit_issue_title": "Edit Issue",
+  "issue_details_label": "Issue Details",
+  "issue_title_label": "Title",
+  "issue_title_hint": "Short issue summary",
+  "issue_category_label": "Category",
+  "issue_priority_label": "Priority",
+  "issue_description_label": "Description",
+  "issue_description_hint": "Explain the problem in detail",
+  "admin_comment_label": "Admin Comment",
+  "submit_issue_btn": "Submit Issue",
+  "update_issue_btn": "Update Issue",
+  "enter_issue_title_error": "Please enter issue title",
+  "select_category_error": "Please select category",
+  "describe_issue_error": "Please describe the issue",
+  "reported_issues_admin_title": "Reported Issues",
+  "my_reported_issues_title": "My Reported Issues",
+  "failed_load_issues_error": "Failed to load issues",
+  "no_issues_reported_title": "No issues reported yet",
+  "report_problem_hint": "If you face any problem, report it here.",
+  "cat_crash": "Crash",
+  "cat_ui_issue": "UI Issue",
+  "cat_performance": "Performance",
+  "cat_payment": "Payment",
+  "cat_login_auth": "Login / Auth",
+  "cat_other": "Other",
+  "priority_low": "Low",
+  "priority_medium": "Medium",
+  "priority_high": "High",
+  "priority_critical": "Critical",
+  "status_open": "Open",
+  "status_in_progress": "In Progress",
+  "status_resolved": "Resolved",
+  "status_rejected": "Rejected",
+  "issue_details_title": "Issue Details",
+  "description_label": "Description",
+  "response_label": "Response",
+  "user_not_found_error": "User not found",
+  "reply_btn": "Reply",
+  "anonymous_job_seeker": "Anonymous Job Seeker",
+  "active_recruiter": "Active Recruiter",
+  "inactive_recruiter": "Inactive Recruiter",
+  "joined_label": "Joined",
+  "notif_job_posted_title": "Job Posted",
+  "notif_job_posted_desc": "You posted a new job: {jobTitle}",
+  "@notif_job_posted_desc": {
+    "placeholders": {
+      "jobTitle": {
+        "type": "String"
+      }
+    }
+  },
+  "notif_job_apply_title": "New Application",
+  "notif_job_apply_desc": "You have a new application for {jobTitle}",
+  "@notif_job_apply_desc": {
+    "placeholders": {
+      "jobTitle": {
+        "type": "String"
+      }
+    }
+  },
+  "notif_skill_verified_title": "Skill Verified",
+  "notif_skill_verified_desc": "Your skill {skillName} has been verified",
+  "@notif_skill_verified_desc": {
+    "placeholders": {
+      "skillName": {
+        "type": "String"
+      }
+    }
+  },
+  "notif_payment_success_title": "Payment Successful",
+  "notif_payment_success_desc": "Your payment for {planName} was successful",
+  "@notif_payment_success_desc": {
+    "placeholders": {
+      "planName": {
+        "type": "String"
+      }
+    }
+  },
+  "notif_login_title": "Login Alert",
+  "notif_login_desc": "You logged in at {time}",
+  "@notif_login_desc": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "notif_logout_title": "Logout",
+  "notif_logout_desc": "You have been logged out",
+  "notif_issue_reported_title": "Issue Reported",
+  "notif_issue_reported_desc": "Your issue '{title}' has been successfully reported.",
+  "@notif_issue_reported_desc": {
+    "placeholders": {
+      "title": { "type": "String" }
+    }
+  },
+  "notif_issue_resolved_title": "Issue Resolved",
+  "notif_issue_resolved_desc": "Your issue '{title}' has been marked as resolved.",
+  "@notif_issue_resolved_desc": {
+    "placeholders": {
+      "title": { "type": "String" }
+    }
+  },
+  "notif_admin_new_issue_title": "New Issue Reported",
+  "notif_admin_new_issue_desc": "A new issue '{title}' was reported by a user.",
+  "@notif_admin_new_issue_desc": {
+    "placeholders": {
+      "title": { "type": "String" }
+    }
+  },
+  "notif_admin_issue_resolved_title": "Issue Resolved",
+  "notif_admin_issue_resolved_desc": "Issue '{title}' has been resolved.",
+  "@notif_admin_issue_resolved_desc": {
+    "placeholders": {
+      "title": { "type": "String" }
+    }
+  },
+  "apply_btn": "Apply",
+  "applied_btn": "Applied",
+  "hire_query_btn": "Hire ?",
+  "hire_btn": "Hire",
+  "hired_btn": "Hired",
+  "reject_btn": "Reject",
+  "job_applicants_title": "Job Applicants",
+  "recruiter_info_title": "Recruiter Information",
+  "required_skills_title": "Required Skills",
+  "no_applicants_yet_label": "No applicants yet",
+  "hire_candidate_title": "Hire Candidate",
+  "hire_confirm_msg": "Once hired, this action cannot be undone.",
+  "reject_applicant_title": "Reject Applicant",
+  "reject_confirm_msg": "Are you sure you want to reject this job seeker?\n\nOnce rejected, you will NOT be able to contact this candidate for this job again.",
+  "skill_rejected_label": "Rejected",
+  "applicants_tab": "Applicants",
+  "stats_tab": "Stats",
+  "please_apply_first_chat": "Please apply first before chatting.",
+  "show_route_btn": "Show Route",
+  "hide_route_btn": "Hide Route",
+  "open_in_maps_btn": "Open in Maps",
+  "getting_route_loading": "Getting route…",
+  "your_location_label": "Your Location",
+  "chat_btn": "Chat",
+  "accept_btn": "Accept",
+  "job_open_label": "Open",
+  "job_closed_label": "Closed",
+  "job_views_stats_title": "Job Views ({count} total)",
+  "job_applications_stats_title": "Job Applications ({count} total)",
+  "mon_short": "Mon",
+  "tue_short": "Tue",
+  "wed_short": "Wed",
+  "thu_short": "Thu",
+  "fri_short": "Fri",
+  "sat_short": "Sat",
+  "sun_short": "Sun",
+  "unread_messages_count": "{count, plural, =0 {No unread messages} =1 {1 unread message} other {{count} unread messages}}",
+  "@unread_messages_count": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "staff_pharmacist_hiring": "Hiring Staff Pharmacist",
+  "staff_pharmacist_vacancy": "Staff Pharmacist Vacancy",
+  "staff_pharmacist_opportunity": "Staff Pharmacist Opportunity",
+  "find_pharmacy_job_title": "Find a pharmacy job",
+  "featured_jobs_title": "Featured jobs",
+  "interested_in_pharmacy_msg": "Because you are interested in pharmacy",
+  "failed_to_load_jobs": "Failed to load jobs",
+  "no_jobs_available": "No jobs available",
+  "filter_jobs_title": "Filter Jobs",
+  "search_job_titles_hint": "Search job titles",
+  "search_skills_hint": "Search skills",
+  "apply_filters_btn": "Apply Filters",
+  "candidate_label": "Candidate",
+  "enter_job_keyword_hint": "Enter job title or keyword",
+  "job_seeker_label": "Job Seeker",
+  "apply_now_btn": "Apply Now",
+  "featured_job_salary": "{amount} / year",
+  "all_cities": "All",
+  "city_algiers": "Algiers",
+  "city_oran": "Oran",
+  "city_constantine": "Constantine",
+  "city_annaba": "Annaba",
+  "city_blida": "Blida",
+  "city_tizi_ouzou": "Tizi Ouzou",
+  "city_bejaia": "Bejaia",
+  "city_setif": "Setif",
+  "city_batna": "Batna",
+  "city_skikda": "Skikda",
+  "city_chlef": "Chlef",
+  "city_mostaganem": "Mostaganem",
+  "city_tlemcen": "Tlemcen",
+  "city_biskra": "Biskra",
+  "city_ouargla": "Ouargla",
+  "city_ghardaia": "Ghardaia",
+  "@featured_job_salary": {
+    "placeholders": {
+      "amount": {
+        "type": "String"
+      }
+    }
+  },
+  "nav_home": "Home",
+  "nav_jobs": "Jobs",
+  "nav_messages": "Messages",
+  "nav_profiles": "Profiles",
+  "nav_applications": "Applications",
+  "nav_insights": "Insights",
+  "nav_recruiters": "Recruiters",
+  "nav_jobseekers": "Job Seekers",
+  "del_account_title": "Delete Account",
+  "del_account_warning": "Warning",
+  "del_account_body": "Deleting your account will permanently remove:\n• Your profile\n• Login data\n• All your records\n\nThis cannot be undone.",
+  "del_account_btn": "Delete My Account",
+  "del_account_dialog_title": "Delete Account",
+  "del_account_dialog_msg": "This will permanently delete your account and all data. This cannot be undone.",
+  "del_account_not_auth": "Not signed in. Please log in again.",
+  "del_account_error": "Please log in again and retry.",
+  "profile_strength": "Profile Strength",
+  "job_applications_nav": "Job Applications",
+  "matches": "Matches",
+  "job_matches": "Job Matches",
+  "based_on_your_profile": "Based on your profile",
+  "skills_verified_count": "Skills Verified",
+  "improve_visibility": "Improve visibility",
+  "profile_views_count": "Profile Views",
+  "recruiters_viewed_you": "Recruiters viewed you",
+  "profile_visibility": "Profile Visibility",
+  "visibility_high": "High",
+  "visibility_anonymous": "Anonymous",
+  "privacy_mode": "Privacy Mode",
+  "skill_verification_title": "Skill Verification",
+  "verify_your_skills": "Verify Your Skills",
+  "verify_skills_desc": "Ask a pharmacy you've worked with to confirm your experience",
+  "status_verified_label": "Verified",
+  "status_pending_label": "Pending",
+  "status_rejected_label": "Rejected",
+  "my_profile": "My Profile",
+  "profile_views_drawer": "Profile Views",
+  "profile_views_desc": "Recruiters who viewed you",
+  "personal_pro_info": "Personal & professional info",
+  "find_your_next_role": "Find your next role",
+  "pharmacies_on_map": "{count, plural, =1 {1 pharmacy on map} other {{count} pharmacies on map}}",
+  "tap_pin_or_scroll_below": "Tap a pin or scroll below",
+  "pharmacy_profile": "Pharmacy Profile",
+  "available_jobs_count": "Available Jobs ({count})",
+  "no_active_jobs_available": "No active jobs available right now.",
+  "no_jobs_location_hint": "No jobs available at this location",
+  "filter_btn": "Filter",
+  "clear_btn": "Clear",
+  "my_applications_title": "My Applications",
+  "failed_to_load_applications": "Failed to load applications",
+  "status_accepted": "Accepted",
+  "status_rejected": "Rejected",
+  "status_viewed": "Viewed",
+  "status_applied": "Applied",
+  "chat_with_recruiter": "Chat with recruiter",
+  "open_chat_failed": "Failed to open chat. Please try again.",
+  "no_applications_title": "No applications yet",
+  "no_applications_subtitle": "Apply to jobs and track them here",
+  "time_just_now": "Just now",
+  "time_min_ago": "{count}m ago",
+  "@time_min_ago": { "placeholders": { "count": { "type": "int" } } },
+  "time_hours_ago": "{count}h ago",
+  "@time_hours_ago": { "placeholders": { "count": { "type": "int" } } },
+  "time_days_ago": "{count}d ago",
+  "@time_days_ago": { "placeholders": { "count": { "type": "int" } } },
+  "time_weeks_ago": "{count}w ago",
+  "@time_weeks_ago": { "placeholders": { "count": { "type": "int" } } },
+  "time_months_ago": "{count}mo ago",
+  "@time_months_ago": { "placeholders": { "count": { "type": "int" } } },
+  "time_years_ago": "{count}y ago",
+  "@time_years_ago": { "placeholders": { "count": { "type": "int" } } },
+  "salary_per_year": "{salary} / Year",
+  "@salary_per_year": { "placeholders": { "salary": { "type": "String" } } },
+  "profile_analytics_title": "Profile Analytics",
+  "views_trend_title": "Views Trend",
+  "last_7_days_subtitle": "Last 7 days",
+  "total_profile_views": "Total Profile Views",
+  "this_week_views": "+{count} this week",
+  "@this_week_views": { "placeholders": { "count": { "type": "int" } } },
+  "recruiters_label": "Recruiters",
+  "todays_views_label": "Today's Views",
+  "daily_breakdown_title": "Daily Breakdown",
+  "today_label": "Today",
+  "views_count_tooltip": "{count} views",
+  "@views_count_tooltip": { "placeholders": { "count": { "type": "int" } } },
+  "no_trend_data": "No trend data yet",
+  "no_profile_views_title": "No profile views yet",
+  "no_profile_views_subtitle": "When recruiters view your profile,\nyour analytics will appear here.",
+  "day_mon": "Mon",
+  "day_tue": "Tue",
+  "day_wed": "Wed",
+  "day_thu": "Thu",
+  "day_fri": "Fri",
+  "day_sat": "Sat",
+  "day_sun": "Sun",
+  "select_pharmacy_title": "Select Pharmacy",
+  "search_pharmacy_hint": "Search pharmacy by name",
+  "no_pharmacies_found": "No pharmacies found",
+  "skill_verification_requests_title": "Skill Verification Requests",
+  "verification_request_sent_success": "Verification request sent successfully!",
+  "failed_to_send_request": "Failed to send request: {error}",
+  "@failed_to_send_request": { "placeholders": { "error": { "type": "String" } } },
+  "add_note_dialog_title": "Add a Note (Optional)",
+  "add_note_dialog_hint": "Add any additional information for the recruiter...",
+  "dialog_cancel_btn": "Cancel",
+  "send_request_btn": "Send Request",
+  "status_not_requested": "Not Requested",
+  "status_pending": "Pending",
+  "status_completed": "Completed",
+  "request_skill_verification_purpose": "Request skill verification from this recruiter to strengthen your profile credibility and ranking.",
+  "send_skill_verification_request_btn": "Send Skill Verification Request",
+  "verification_request_pending_desc": "Verification request pending. The recruiter will review your skills soon.",
+  "verification_completed_desc": "Verification completed! This recruiter has reviewed your skills.",
+  "chat_with_recruiter_btn": "Chat with Recruiter",
+  "failed_to_open_chat": "Failed to open chat: {error}",
+  "@failed_to_open_chat": { "placeholders": { "error": { "type": "String" } } },
+  "no_applications_yet_title": "No Applications Yet",
+  "apply_to_jobs_for_verification_desc": "Apply to jobs to request skill verification from recruiters",
+  "create_profile_title": "Create Profile",
+  "edit_profile_title": "Edit Profile",
+  "my_profile_title": "My Profile",
+  "update_profile_picture": "Update Profile Picture",
+  "personal_information_title": "Personal Information",
+  "first_name_label": "First Name",
+  "last_name_label": "Last Name",
+  "email_label": "Email",
+  "show_my_name_label": "Show my name to recruiters",
+  "location_information_title": "Location Information",
+  "my_location_title": "My Location",
+  "tap_to_set_location": "Tap to set location on map",
+  "change_location_btn": "Change",
+  "set_location_btn": "Set",
+  "current_job_title_title": "Current job title",
+  "select_job_title_hint": "Select your current job title",
+  "skills_title": "Skills",
+  "add_skill_btn": "Add Skill",
+  "background_title": "Background",
+  "education_label": "Education",
+  "job_experience_hint": "Select your job experience level",
+  "save_changes_btn": "Save Changes",
+  "no_skills_available": "No skills available",
+  "select_skills_title": "Select Skills",
+  "no_experience_available": "No experience levels available",
+  "no_options_available": "No options available",
+  "wilaya_label": "Wilaya",
+  "select_province_hint": "Select Province",
+  "city_label": "City",
+  "select_province_first": "Select province first",
+  "loading_hint": "Loading...",
+  "select_city_hint": "Select City",
+  "fill_required_fields_error": "Please fill all required fields",
+  "phone_required_error": "Phone number is required",
+  "phone_nine_digits_error": "Phone number must be 9 digits",
+  "phone_invalid_start_error": "Phone must start with 5, 6, or 7 (Algeria only)",
+  "status_verified": "Verified",
+  "status_rejected": "Rejected",
+  "crop_photo_title": "Crop Photo",
+  "profile_picture_updated": "Profile picture updated",
+  "failed_to_update": "Failed: {error}",
+  "@failed_to_update": { "placeholders": { "error": { "type": "String" } } },
+  "profile_photo_title": "Profile photo",
+  "camera_btn": "Camera",
+  "gallery_btn": "Gallery",
+  "remove_photo_btn": "Remove photo",
+  "general_save_btn": "Save",
+  "general_change_btn": "Change",
+  "recrop_btn": "Recrop",
+  "add_profile_photo_label": "Add profile photo",
+  "admin_active_jobs_title": "Jobs",
+  "admin_active_jobs_sub": "Active",
+  "admin_skill_req_title": "Skills",
+  "admin_skill_req_sub": "Pending",
+  "admin_recruiters_title": "Recruiters",
+  "admin_recruiters_sub": "Registered",
+  "admin_seekers_title": "Candidates",
+  "admin_seekers_sub": "Active",
+  "admin_platform_activity": "Activity",
+  "admin_platform_activity_desc": "General Overview",
+  "admin_open_jobs": "Open",
+  "admin_closed_jobs": "Closed",
+  "admin_user_activity": "Users",
+  "admin_user_activity_desc": "Candidates vs Recruiters",
+  "admin_reported_issues": "Issues",
+  "admin_total_earnings": "Earnings",
+  "admin_job_status_overview": "Job Offer Status Overview",
+  "admin_jobs_open_count": "You currently have {active} of {total} jobs open",
+  "@admin_jobs_open_count": { "placeholders": { "active": { "type": "int" }, "total": { "type": "int" } } },
+  "admin_manage_account": "Manage Account",
+  "admin_active_label": "Active",
+  "admin_drawer_payments_title": "Payments from Recruiters",
+  "admin_drawer_payments_sub": "View payments from recruiters",
+  "admin_drawer_job_options_title": "Add Job Title/Skill",
+  "admin_drawer_job_options_sub": "Add new job titles or skills to the system",
+  "admin_drawer_job_types_title": "Manage Job Types",
+  "admin_drawer_job_types_sub": "Manage job types available in the app",
+  "admin_drawer_exp_levels_title": "Manage Experience Levels",
+  "admin_drawer_exp_levels_sub": "Manage experience levels available in the app",
+  "admin_drawer_locations_title": "Manage Locations",
+  "admin_drawer_locations_sub": "Manage locations available in the app",
+  "admin_drawer_payment_config_title": "Manage Payment Configuration",
+  "admin_drawer_payment_config_sub": "Manage payment parameters",
+  "admin_drawer_appeals_title": "Pending Appeals",
+  "admin_drawer_appeals_sub": "Review pending appeals",
+  "admin_add_user_title": "Add New User",
+  "admin_appeals_title": "Pending Appeals",
+  "admin_job_list_title": "Job Listings",
+  "admin_payments_title": "Payment Management",
+  "admin_recruiters_title": "Recruiters",
+  "admin_promotion_title": "Recruiter Promotion",
+  "admin_verification_title": "Recruiter Verification",
+  "blocked_account_title": "Account Blocked",
+  "create_user_btn": "Create User",
+  "update_user_btn": "Update User",
+  "no_pending_appeals_msg": "No pending appeals found.",
+  "review_btn": "Review",
+  "appeal_review_title": "Appeal Review",
+  "user_email_label": "User Email",
+  "block_reason_label": "Block Reason",
+  "appeal_msg_label": "Appeal Message",
+  "admin_msg_required_label": "Admin message (required)",
+  "approve_btn": "APPROVE",
+  "reject_btn_caps": "REJECT",
+  "appeal_approved_notif_title": "Appeal Approved",
+  "appeal_rejected_notif_title": "Appeal Rejected",
+  "appeal_under_review_msg": "Your appeal is under review",
+  "appeal_approved_msg": "Your appeal was approved",
+  "appeal_rejected_msg": "Your appeal was rejected",
+  "no_reason_provided": "No reason provided",
+  "explain_unblock_hint": "Explain why your account should be unblocked",
+  "submit_appeal_btn": "Submit Appeal",
+  "blocked_acc_msg": "Your account has been blocked",
+  "recruiter_verification_card": "Recruiter Verification",
+  "make_featured_card": "Make Recruiters Featured",
+  "pending_count_label": "{count} pending",
+  "@pending_count_label": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "transactions_count_label": "{count} transactions",
+  "@transactions_count_label": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "recruiter_promotion_panel": "Recruiter Promotion",
+  "search_recruiters_label": "Search Recruiters",
+  "eligible_recruiters_count": "Eligible Recruiters ({count})",
+  "@eligible_recruiters_count": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "no_recruiters_match_search": "No recruiters match your search.",
+  "pharmacy_search_hint": "Pharmacy name, pharmacist, or city",
+  "recent_payments_title": "Recent Payments",
+  "no_payments_found": "No payments found.",
+  "recruiter_verification_panel": "Recruiter Verification",
+  "search_pending_recruiters": "Search Pending Recruiters",
+  "pending_verification_count": "Pending Verification ({count})",
+  "@pending_verification_count": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "no_recruiters_for_verification": "No recruiters found for verification.",
+  "search_jobs_hint": "Search jobs…",
+  "all_filter_label": "All",
+  "open_filter_label": "Open",
+  "closed_filter_label": "Closed",
+  "total_revenue_label": "Total Revenue",
+  "total_transactions_label": "Total Transactions",
+  "pending_payments_label": "Pending",
+  "paid_payments_label": "Paid",
+  "amount_label": "Amount",
+  "plan_label": "Plan",
+  "status_label": "Status",
+  "account_blocked_title": "Account Blocked",
+  "admin_header_title": "Admin Panel",
+  "pending_verification_label": "Pending Verification",
+  "create_account_title": "Create Account",
+  "personal_info_section": "Personal Info",
+  "company_info_section": "Company Info",
+  "registered_as_label": "Registered as {role}",
+  "@registered_as_label": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  },
+  "all_rights_reserved": "All rights reserved",
+  "verification_requests_card": "Verification",
+  "featured_recruiters_card": "Featured",
+  "payments_card": "Payments",
+  "pending_label": "{count} Pending",
+  "@pending_label": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "transactions_count_label": "{count} Tx",
+  "@transactions_count_label": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "find_pharmacy_job_title": "Pharmacy Jobs",
+  "open_jobs_tab": "Open",
+  "closed_jobs_tab": "Closed",
+  "failed_load_jobs": "Load failed",
+  "no_jobs_available": "No jobs",
+  "view_details_btn": "Details",
+  "filter_jobs_title": "Filters",
+  "clear_all_btn": "Clear",
+  "apply_filters_btn": "Apply",
+  "search_province_hint": "Province...",
+  "search_recruiters_hint": "Search Recruiter...",
+  "verified_status": "Verified",
+  "unverified_status": "Unverified",
+  "view_profile_btn": "Profile",
+  "paid_subscriptions_title": "Paid Subs",
+  "no_paid_subs": "No paid subs",
+  "active_label": "Active",
+  "revenue_label": "Revenue",
+  "expired_label": "Expired",
+  "until_label": "Until {date}",
+  "@until_label": {
+    "placeholders": {
+      "date": {
+        "type": "String"
+      }
+    }
+  },
+  "recruiter_label": "Recruiter",
+  "street_label": "Street",
+  "license_label": "License",
+  "inactive_label": "Inactive",
+  "lic_expires_label": "Expires",
+  "paid_on_label": "Paid on",
+  "method_label": "Method",
+  "year_label": "Year",
+  "checkout_id_label": "TX ID",
+  "admin_appeals_title": "Pending Appeals",
+  "no_pending_appeals_msg": "No pending appeals",
+  "appeal_review_title": "Appeal Review",
+  "approve_btn": "APPROVE",
+  "reject_btn": "REJECT",
+  "admin_msg_label": "Admin Msg",
+  "recent_payments_title": "Recent Payments",
+  "no_payments_found": "No payments found",
+  "eligible_recruiters_count": "Eligible ({count})",
+  "@eligible_recruiters_count": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "no_recruiters_match": "No recruiters match",
+  "skills_label": "Skills",
+  "education_label": "Education",
+  "experience_label": "Experience",
+  "premium_label": "Premium",
+  "search_pending_recruiters": "Search Pending",
+  "pharmacy_search_hint": "Pharmacy, name or city",
+  "no_to_verify": "No recruiters to verify",
+  "recruiter_verification_panel": "Recruiter Verification Panel",
+  "recruiter_promotion_panel": "Recruiter Promotion Panel",
+  "pending_verification_count": "{count} to verify",
+  "@pending_verification_count": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "admin_role_desc": "Full platform access",
+  "admin_dashboard_subtitle": "Admin Dashboard",
+  "admin_label": "Admin",
+  "all_jobs_label": "All Jobs",
+  "open_closed_jobs_subtitle": "Open & Closed Jobs",
+  "find_pharmacy_job_title": "Find a pharmacy job",
+  "search_job_hint": "Enter job title or keyword",
+  "street_address_label": "Street Address",
+  "province_label": "Province",
+  "location_label": "Location",
+  "any_label": "Any",
+  "job_title_label": "Job Title",
+  "only_admin_create_user_toast": "Only admins can create users.",
+  "email_required_error": "Email is required.",
+  "invalid_email_error": "Please enter a valid email address.",
+  "password_required_error": "Password is required.",
+  "invalid_password_format_error": "Password must be at least 6 characters and include 1 uppercase, 1 lowercase, and 1 number.",
+  "confirm_password_required_error": "Please confirm your password.",
+  "passwords_do_not_match_error": "Passwords do not match.",
+  "admin_created_user_name": "Admin Created User",
+  "user_created_success_msg": "User successfully created as {role}.",
+  "@user_created_success_msg": {
+    "placeholders": {
+      "role": {
+        "type": "String"
+      }
+    }
+  },
+  "access_denied_admin": "Access denied. Admin only.",
+  "add_new_user_title": "Add New User",
+  "create_user_account_header": "Create User Account",
+  "create_user_account_desc": "Fill in the details and assign a role.\nA verification email will be sent automatically.",
+  "password_label": "Password",
+  "confirm_password_label": "Confirm Password",
+  "assign_role_label": "Assign Role",
+  "admin_role_label": "Admin",
+  "recruiters_list": "Recruiters",
+  "recruiters": "Recruiters",
+  "searchHint": "Search by pharmacy, name or city",
+  "noRecruitersFound": "No recruiters found",
+  "loadingRecruiters": "Loading recruiters…",
+  "recruitersLoaded": "{count} recruiters loaded",
+  "loadMoreRecruiters": "Load more recruiters",
+  "allRecruitersLoaded": "All {count} recruiters loaded",
+  "verified": "Verified",
+  
+  "viewProfile": "View Profile",
+
+
+  "recruiterVerificationPanel": "Verification Panel",
+  "searchPendingRecruiters": "Search Recruiters",
+  "searchHintRecruiters": "Search pharmacy, name or city",
+  "pendingVerification": "Pending Verification",
+  "noRecruitersForVerification": "No recruiters found",
+  "premium": "Premium",
+
+   "recruiterPromotionPanel": "Promotion Panel",
+  "searchRecruiters": "Search Recruiters",
+  "eligibleRecruiters": "Eligible Recruiters",
+  "noRecruitersMatch": "No recruiters found",
+
+  "recruiterProfile": "Profile",
+  "pharmacyInfo": "Pharmacy Info",
+  "pharmacist": "Pharmacist",
+  "metaInfo": "Details",
+  "jobStats": "Job Stats",
+  "pharmacyName": "Pharmacy",
+ 
+  "province": "Province",
+ 
+  "firstName": "First Name",
+  "lastName": "Last Name",
+  "userId": "User ID",
+  "createdAt": "Created",
+  "latitude": "Latitude",
+  "longitude": "Longitude",
+  "totalJobs": "Total Jobs",
+  "activeJobs": "Active Jobs",
+  "draftJobs": "Drafts",
+  "verifyRecruiter": "Verify",
+  "unverifyRecruiter": "Unverify",
+  "recruiterApproved": "Approved",
+  "recruiterDeactivated": "Deactivated",
+  "makeRecruiterPro": "Make Pro",
+  "recruiterUpgraded": "Upgraded to Pro",
+  
+  "failedLoadJobs": "Load failed",
+
+   "paidSubscriptions": "Subscriptions",
+  "noPaidSubscriptions": "No subscriptions",
+  "total": "Total",
+  
+  "revenue": "Revenue",
+  "unknownPharmacy": "Unknown",
+  "expired": "Expired",
+  "until": "Until",
+  "recruiter": "Recruiter",
+  "payment": "Payment",
+  "name": "Name",
+  "street": "Street",
+  "license": "License",
+  "licenseExpires": "Expires",
+  
+  "paidOn": "Paid",
+  "expires": "Expires",
+  "method": "Method",
+  "year": "Year",
+  "checkoutId": "Checkout ID",
+  "inactive": "Inactive",
+  "loadFailed": "Load failed",
+   "manageOptions": "Manage Options",
+  "jobTitles": "Job Titles",
+
+
+  "noOptions": "No options yet",
+
+
+  "hidden": "Hidden",
+
+  "deleteOption": "Delete Option",
+  "deleteOptionConfirm": "Delete \"{name}\" permanently?",
+  "@deleteOptionConfirm": {
+    "placeholders": {
+      "name": {}
+    }
+  },
+ 
+
+  "fillAllLanguages": "Fill in all three languages",
+
+  "editJobTitle": "Edit Job Title",
+  "addJobTitle": "Add Job Title",
+  "editSkill": "Edit Skill",
+  "addSkill": "Add Skill",
+
+  "englishRequired": "English label is required",
+  "frenchRequired": "French label is required",
+  "arabicRequired": "Arabic label is required",
+
+ 
+
+  "labelInEnglish": "Label in English",
+  "labelInFrench": "Label in French",
+  "labelInArabic": "Label in Arabic",
+
+  "update": "Update",
+  "add": "Add",
+  "jobTypesTitle": "Job Types",
+  "typesCount": "{count} types",
+  "@typesCount": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "noJobTypes": "No job types yet",
+  "addNewHint": "Tap + to add one",
+
+  "deleteJobTypeTitle": "Delete Job Type",
+  "deleteJobTypeConfirm": "Delete \"{name}\" permanently?",
+  "@deleteJobTypeConfirm": {
+    "placeholders": {
+      "name": {}
+    }
+  },
+
+
+
+  "addJobType": "Add Job Type",
+  "editJobType": "Edit Job Type",
+
+  "fillLanguages": "Fill in all three languages",
+
+  "nameInLanguage": "Name in {lang}...",
+  "@nameInLanguage": {
+    "placeholders": {
+      "lang": {}
+    }
+  },
+    "experienceLevelsTitle": "Experience Levels",
+  "levelsCount": "{count} levels",
+  "@levelsCount": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+
+  "noExperienceLevels": "No experience levels yet",
+  
+  "deleteExperienceLevelTitle": "Delete Experience Level",
+  "deleteExperienceLevelConfirm": "Delete \"{name}\" permanently?",
+  "@deleteExperienceLevelConfirm": {
+    "placeholders": {
+      "name": {}
+    }
+  },
+
+
+  "addExperienceLevel": "Add Experience Level",
+  "editExperienceLevel": "Edit Experience Level",
+
+  "labelInLanguage": "Label in {lang}...",
+  "@labelInLanguage": {
+    "placeholders": {
+      "lang": {}
+    }
+  },
+
+  "titleProvincesCities": "Provinces & Cities",
+
+  "provincesCount": "{count} provinces",
+  "@provincesCount": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+
+  "citiesCount": "{count} cities",
+  "@citiesCount": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+
+  "noProvinces": "No provinces yet",
+  "noCities": "No cities yet",
+
+  "addProvinceHint": "Tap + to add a province",
+
+  "addCityHint": "Tap + to add a city to {province}",
+  "@addCityHint": {
+    "placeholders": {
+      "province": { "type": "String" }
+    }
+  },
+
+  "cities": "Cities",
+
+  "deleteProvinceTitle": "Delete Province",
+
+  "deleteProvinceMessage": "Delete \"{name}\" and ALL its cities permanently?",
+  "@deleteProvinceMessage": {
+    "placeholders": {
+      "name": { "type": "String" }
+    }
+  },
+
+  "deleteCityTitle": "Delete City",
+
+  "deleteCityMessage": "Delete \"{name}\" permanently?",
+  "@deleteCityMessage": {
+    "placeholders": {
+      "name": { "type": "String" }
+    }
+  },
+
+  "cancel": "Cancel",
+  "delete": "Delete",
+
+  "active": "Active",
+  "hidden": "Hidden",
+
+  "edit": "Edit",
+  "add": "Add",
+  "update": "Update",
+
+  "addProvince": "Add Province",
+  "editProvince": "Edit Province",
+  "addCity": "Add City",
+  "editCity": "Edit City",
+
+  "fillAllLanguages": "Fill in all three languages",
+
+  "english": "English",
+  "french": "French",
+  "arabic": "Arabic",
+
+  "englishRequired": "English name is required",
+  "frenchRequired": "French name is required",
+  "arabicRequired": "Arabic name is required",
+
+  "nameInLanguage": "Name in {language}...",
+  "@nameInLanguage": {
+    "placeholders": {
+      "language": { "type": "String" }
+    }
+  },
+  "paymentConfigTitle": "Payment Config",
+
+  "save": "Save",
+  "saveConfiguration": "Save Configuration",
+
+  "environment": "Environment",
+  "environmentSubtitle": "Switch between test and production mode",
+
+  "testMode": "Test Mode",
+  "testModeSubtitle": "No real money charged",
+
+  "production": "Production",
+  "productionSubtitle": "Live payments",
+
+  "apiCredentials": "API Credentials",
+  "apiCredentialsSubtitle": "Chargily secret key and endpoint URLs",
+
+  "testSecretKey": "Test Secret Key",
+  "cloudFunctionUrl": "Cloud Function URL",
+  "webhookUrl": "Webhook URL",
+
+  "redirectUrls": "Redirect URLs",
+  "redirectUrlsSubtitle": "Where Chargily sends users after payment",
+
+  "successUrl": "Success URL",
+  "failureUrl": "Failure URL",
+
+  "pricing": "Pricing",
+  "pricingSubtitle": "Annual fee, currency and locale",
+
+  "annualFee": "Annual Fee",
+  "currency": "Currency",
+  "locale": "Locale",
+
+  "planCopy": "Plan Copy",
+  "planCopySubtitle": "Text shown to recruiters on the subscription screen",
+
+  "planName": "Plan Name",
+  "planSubtitle": "Subtitle",
+  "planDescription": "Description",
+  "disclaimer": "Disclaimer",
+
+  "planFeatures": "Plan Features",
+  "planFeaturesSubtitle": "Bullet points shown on the subscription screen. Drag to reorder.",
+
+  "newFeature": "New Feature",
+  "noFeatures": "No features added yet",
+
+  "annualFeeError": "Annual fee must be a valid number.",
+
+  "saveSuccess": "Payment config saved successfully.",
+
+  "saveError": "Failed to save: {error}",
+  "@saveError": {
+    "placeholders": {
+      "error": { "type": "String" }
+    }
+  },
+  
+  "close_issue_btn": "Close Issue",
+  "tabs_open": "Open",
+  "tabs_closed": "Closed",
+  "loginHere": "Login Here",
+  "@loginHere": {
+    "description": "Login screen title"
+  },
+
+  "welcomeMessage": "Access your Ophicina account securely with your preferred method",
+  "@welcomeMessage": {
+    "description": "Login screen subtitle"
+  },
+   "monthlyLimitTitle": "Monthly Limit Reached",
+  "monthlyLimitMessage": "You have used all {limit} job posts for this month. Your limit resets on the 1st of next month. Contact admin if you need more.",
+  "ok": "OK",
+
+  "@monthlyLimitMessage": {
+    "placeholders": {
+      "limit": {}
+    }
+  },
+  "notif_account_verified_title": "Account Verified",
+  "notif_account_verified_desc": "Your recruiter account has been verified by the Ophicina team.",
+  "notif_account_deactivated_title": "Account Deactivated",
+  "notif_account_deactivated_desc": "Your recruiter account has been deactivated. Please contact support for more information.",
+  "notif_account_pro_title": "Upgraded to Pro",
+  "notif_account_pro_desc": "Congratulations! Your account has been upgraded to Pro status.",
+  "notif_quota_updated_title": "Job Post Quota Updated",
+  "notif_quota_updated_desc": "Your monthly job post limit has been updated to {limit} posts.",
+  "@notif_quota_updated_desc": {
+    "placeholders": {
+      "limit": {
+        "type": "int"
+      }
+    }
+  },
+  "forgotPassword": "Forgot your password?",
+
+  "forgotPasswordTitle": "Forgot Password?",
+  "forgotPasswordSubtitle": "Enter your email and we'll send you a link to reset your password.",
+  "emailLabel": "Email",
+  "resetPasswordButton": "Reset Password",
+  "backToLogin": "Back to Login",
+
+  "emailRequired": "Email is required",
+  "resetLinkSent": "Reset link sent. Check your inbox. Please don't forget to check spam folder.",
+  "noAccountFound": "No account found with that email.",
+  "errorPrefix": "Error:"
+}

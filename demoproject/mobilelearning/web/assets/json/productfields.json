@@ -1,0 +1,2447 @@
+﻿{
+  "fields_categories": [
+    {
+      "isRequired": true,
+      "Type": "Text",
+      "ImageURL": "hbfc_banner_four.png",
+      "Title": "Digital Account",
+      "Description": "Al Baraka brings our Resident Pakistanis the convenience of opening their Digital Bank accounts without having to visit the branch.",
+      "ItemsDetails": []
+    },
+    {
+      "isRequired": true,
+      "Type": "Text",
+      "ImageURL": "hbfc_banner_three.png",
+      "Title": "Product & Services",
+      "Description": "As Pakistan’s oldest and most trusted housing finance institution, our identity is deeply woven into the country’s history and heritage.",
+      "ItemsDetails": []
+    }
+  ],
+  "fields_accounts": [
+    {
+      "isRequired": true,
+      "Type": "Text",
+      "ImageURL": "Faysal_banner_four.png",
+      "Title": "Asaan Digital Savings\r\nAccount PKR",
+      "Description": "Now you can fulfill your long live dreams by opening your Saving Account with few clicks.",
+      "ItemsDetails": [
+        [
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "Faysal_banner_five.png",
+            "Title": "",
+            "Description": "Faysal Islamic Saving Account",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Label",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "Introduction",
+            "Description": "A value added product which enables you to derive benefits from your deposits. It is suitable solution for individual as well as business entities looking for a checking account based on Islamic Financing principles. This account is based upon Qard, (Loan on demand). This makes it free of interest and the principle is guaranteed to you, the depositor.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Product Features & Benefits",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Available in PKR and Foreign currencies (USD, Euro, CNY and GBP).",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Nationwide online access to your account through any Faysal Bank branch.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "24-hour access to your account through Faysal Bank's Call Centre and ATM network, as well as all other 1-Link/ MNET ATMs countrywide.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "A host of conveniences through the Faysal Bank ATM network..",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Instant funds transfer.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Utility Bill payment.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Cash deposit (at selected Faysal Bank ATMs).",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "SMS Alert facility.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "CONSENT",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Checkbox",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "I grant consent to the Bank to access, obtain and process my personal information contained in the Government database for purposes of this product and I consent to the disclosure and provision of such persoanl infomraiton by the Government to the Bank.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Button",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Continue to Apply",
+            "ItemsDetails": []
+          }
+        ]
+      ]
+    },
+    {
+      "isRequired": true,
+      "Type": "Text",
+      "ImageURL": "Faysal_banner_three.png",
+      "Title": "Asaan Digital Current\r\nAccount PKR",
+      "Description": "Faysal Bank brings you the convenience of opening your Current Account anywhere anytime with your local currency.",
+      "ItemsDetails": [
+        [
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Asaan Current Account",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Label",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "Introduction",
+            "Description": "Faysal Islamic Asaan Current Account is based upon Qard (loan on demand). This makes it free of interest and the principle is guaranteed to you, the depositor. Faysal Islamic Asaan Current Account deposits will be utilized in strict adherence to Shariah principles.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Faysal Islamic Asaan Current Account Features and Benefits",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Available in PKR and Foreign currencies (USD, Euro, CNY and GBP).",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Nationwide online access to your account through any Faysal Bank branch.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "24-hour access to your account through Faysal Bank's Call Centre and ATM network, as well as all other 1-Link/ MNET ATMs countrywide.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "A host of conveniences through the Faysal Bank ATM network..",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Instant funds transfer.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Utility Bill payment.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Cash deposit (at selected Faysal Bank ATMs).",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "SMS Alert facility.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "CONSENT",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Checkbox",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "I grant consent to the Bank to access, obtain and process my personal information contained in the Government database for purposes of this product and I consent to the disclosure and provision of such persoanl infomraiton by the Government to the Bank.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Button",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Continue to Apply",
+            "ItemsDetails": []
+          }
+        ]
+      ]
+    },
+    {
+      "isRequired": true,
+      "Type": "Text",
+      "ImageURL": "fb_banner_two.png",
+      "Title": "Digital Savings\r\nAccount USD",
+      "Description": "Manage your money and multiply your savings at your convenience!",
+      "ItemsDetails": [
+        [
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Digital Savings Account",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Label",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "Introduction",
+            "Description": "Faysal Islamic Asaan Current Account is based upon Qard (loan on demand). This makes it free of interest and the principle is guaranteed to you, the depositor. Faysal Islamic Asaan Current Account deposits will be utilized in strict adherence to Shariah principles.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Faysal Islamic Asaan Current Account Features and Benefits",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Available in PKR and Foreign currencies (USD, Euro, CNY and GBP).",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Nationwide online access to your account through any Faysal Bank branch.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "24-hour access to your account through Faysal Bank's Call Centre and ATM network, as well as all other 1-Link/ MNET ATMs countrywide.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "A host of conveniences through the Faysal Bank ATM network.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Instant funds transfer.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Utility Bill payment.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Cash deposit (at selected Faysal Bank ATMs).",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "SMS Alert facility.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "CONSENT",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Checkbox",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "I grant consent to the Bank to access, obtain and process my personal information contained in the Government database for purposes of this product and I consent to the disclosure and provision of such persoanl infomraiton by the Government to the Bank.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Button",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Continue to Apply",
+            "ItemsDetails": []
+          }
+        ]
+      ]
+    },
+    {
+      "isRequired": true,
+      "Type": "Text",
+      "ImageURL": "Faysal_banner_four.png",
+      "Title": "Digital Savings\r\nAccount PKR",
+      "Description": "Manage your Savings at home by easily opening an account digitally!",
+      "ItemsDetails": [
+        [
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Digital Savings Account",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Label",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "Introduction",
+            "Description": "Faysal Islamic Asaan Current Account is based upon Qard (loan on demand). This makes it free of interest and the principle is guaranteed to you, the depositor. Faysal Islamic Asaan Current Account deposits will be utilized in strict adherence to Shariah principles.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Faysal Islamic Asaan Current Account Features and Benefits",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Available in PKR and Foreign currencies (USD, Euro, CNY and GBP).",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Nationwide online access to your account through any Faysal Bank branch.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "24-hour access to your account through Faysal Bank's Call Centre and ATM network, as well as all other 1-Link/ MNET ATMs countrywide.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "A host of conveniences through the Faysal Bank ATM network..",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Instant funds transfer.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Utility Bill payment.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Cash deposit (at selected Faysal Bank ATMs).",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "SMS Alert facility.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "CONSENT",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Checkbox",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "I grant consent to the Bank to access, obtain and process my personal information contained in the Government database for purposes of this product and I consent to the disclosure and provision of such persoanl infomraiton by the Government to the Bank.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Button",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Continue to Apply",
+            "ItemsDetails": []
+          }
+        ]
+      ]
+    },
+    {
+      "isRequired": true,
+      "Type": "Text",
+      "ImageURL": "fb_banner_one.png",
+      "Title": "Digital Current\r\nAccount (USD)",
+      "Description": "Hassle-free Account opening with minimal documentation without visiting the branch.",
+      "ItemsDetails": [
+        [
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Digital Current Account",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Label",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "Introduction",
+            "Description": "Faysal Islamic Asaan Current Account is based upon Qard (loan on demand). This makes it free of interest and the principle is guaranteed to you, the depositor. Faysal Islamic Asaan Current Account deposits will be utilized in strict adherence to Shariah principles.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Current Account Features and Benefits",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Available in PKR and Foreign currencies (USD, Euro, CNY and GBP).",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Nationwide online access to your account through any Faysal Bank branch.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "24-hour access to your account through Faysal Bank's Call Centre and ATM network, as well as all other 1-Link/ MNET ATMs countrywide.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "A host of conveniences through the Faysal Bank ATM network..",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Instant funds transfer.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Utility Bill payment.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Cash deposit (at selected Faysal Bank ATMs).",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "SMS Alert facility.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "CONSENT",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Checkbox",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "I grant consent to the Bank to access, obtain and process my personal information contained in the Government database for purposes of this product and I consent to the disclosure and provision of such persoanl infomraiton by the Government to the Bank.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Button",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Continue to Apply",
+            "ItemsDetails": []
+          }
+        ]
+      ]
+    },
+    {
+      "isRequired": true,
+      "Type": "Text",
+      "ImageURL": "fb_banner_two.png",
+      "Title": "Freelancer Digital\r\nAccount PKR",
+      "Description": "Freelancer Digital Account is developed to facilitate freelancers in Pakistan to directly receive funds into their bank accounts digitally, fast and conveniently.",
+      "ItemsDetails": [
+        [
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Freelancer Digital Account",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Label",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "Introduction",
+            "Description": "Faysal Islamic Asaan Current Account is based upon Qard (loan on demand). This makes it free of interest and the principle is guaranteed to you, the depositor. Faysal Islamic Asaan Current Account deposits will be utilized in strict adherence to Shariah principles.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Account Features and Benefits",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Available in PKR and Foreign currencies (USD, Euro, CNY and GBP).",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Nationwide online access to your account through any Faysal Bank branch.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "24-hour access to your account through Faysal Bank's Call Centre and ATM network, as well as all other 1-Link/ MNET ATMs countrywide.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "A host of conveniences through the Faysal Bank ATM network..",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Instant funds transfer.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Utility Bill payment.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Cash deposit (at selected Faysal Bank ATMs).",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "SMS Alert facility.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "CONSENT",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Checkbox",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "I grant consent to the Bank to access, obtain and process my personal information contained in the Government database for purposes of this product and I consent to the disclosure and provision of such persoanl infomraiton by the Government to the Bank.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Button",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Continue to Apply",
+            "ItemsDetails": []
+          }
+        ]
+      ]
+    },
+    {
+      "isRequired": true,
+      "Type": "Text",
+      "ImageURL": "Faysal_banner_one.png",
+      "Title": "Freelancer Digital\r\nAccount USD",
+      "Description": "Now receive Funds into your bank accounts in Pakistan with simply opening Freelancer Digital Account.",
+      "ItemsDetails": [
+        [
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Freelancer Digital Account",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Label",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "Introduction",
+            "Description": "HBFC Islamic Asaan Current Account is based upon Qard (loan on demand). This makes it free of interest and the principle is guaranteed to you, the depositor. HBFC Islamic Asaan Current Account deposits will be utilized in strict adherence to Shariah principles.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Account Features and Benefits",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Available in PKR and Foreign currencies (USD, Euro, CNY and GBP).",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Nationwide online access to your account through any HBFC Bank branch.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "24-hour access to your account through HBFC Bank's Call Centre and ATM network, as well as all other 1-Link/ MNET ATMs countrywide.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "A host of conveniences through the HBFC Bank ATM network..",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Instant funds transfer.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Utility Bill payment.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Cash deposit (at selected HBFC Bank ATMs).",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "SMS Alert facility.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "CONSENT",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Checkbox",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "I grant consent to the Bank to access, obtain and process my personal information contained in the Government database for purposes of this product and I consent to the disclosure and provision of such persoanl infomraiton by the Government to the Bank.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Button",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Continue to Apply",
+            "ItemsDetails": []
+          }
+        ]
+      ]
+    }
+  ],
+  "fields_products": [
+    {
+      "isRequired": false,
+      "Type": "Text",
+      "ImageURL": "fb_banner_one.png",
+      "Title": "Faysal Islamic Noor Cards",
+      "Description": "Faysal Islami Noor Card is a fully Shariah Compliant Card with all the features and benefits to suit your card needs.",
+      "ItemsDetails": [
+        [
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Introduction",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Label",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "Introduction",
+            "Description": "Live a life of upgraded luxury with Faysal Takmeel, a Shariah compliant facility through Musawamah financing. Choose the best in consumer durable goods such as home appliances, room decor, air conditioners, TVs, laptops, motorcycles and others through easy, fixed monthly installments and change the way you live, today!",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Key Features",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Minimum and Maximum facility size: PKR 25,000 Up to PKR 2,000,000.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Tenure: 12 months to 36 months.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Product Pricing: The total selling price of assets will be charged. Once the price is set, the selling price will not be allowed to change during the agreed tenor.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Prepayment penalty: No prepayment penalty charged.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Processing Fee: Rs. 4,000/- + FED.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Charity (Late Payment Charges): None.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "CONSENT",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Checkbox",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "I grant consent to the Bank to access, obtain and process my personal information contained in the Government database for purposes of this product and I consent to the disclosure and provision of such persoanl infomraiton by the Government to the Bank.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Button",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Continue to Apply",
+            "ItemsDetails": []
+          }
+        ]
+      ]
+    },
+    {
+      "isRequired": false,
+      "Type": "Text",
+      "ImageURL": "fb_banner_two.png",
+      "Title": "Islamic Personal Finance",
+      "Description": "To convert your Personal Installment Loan you can provide consent for conversion via the following channels at your convenience.",
+      "ItemsDetails": [
+        [
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Introduction",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Label",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "Introduction",
+            "Description": "Alhamdulillah! We are pleased to announce that your existing Personal Installment Loan can now be converted into a Shariah compliant Islami Personal Finance.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Label",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "Introduction",
+            "Description": "To convert your Personal Installment Loan you can provide consent for conversion via the following channels at your convenience.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Key Features",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "SMS - Reply 'PILCONV' to the conversion SMS received from 9181",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "WhatsApp - Access FBL WhatsApp Chatbot menu and Select 'Conversion to Islamic Product'",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Email - Record your consent by sending email to pil.conversion@Faysalbank.com",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Contact Centre - Call on our 24/7 helpline to record you consent",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Key Facts",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Consent received via registered mobile number and email address will be considered for conversion.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "You must review and accept the Islami Personal Finance Terms & Conditions and Agreements.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "CONSENT",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Checkbox",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "I grant consent to the Bank to access, obtain and process my personal information contained in the Government database for purposes of this product and I consent to the disclosure and provision of such persoanl infomraiton by the Government to the Bank.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Button",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Continue to Apply",
+            "ItemsDetails": []
+          }
+        ]
+      ]
+    },
+    {
+      "isRequired": true,
+      "Type": "Text",
+      "ImageURL": "carsaaz.png",
+      "Title": "Al baraka Carsaaz ",
+      "Description": "Carsaaz Finance is a medium and long term financing product, where the Bank and the customer jointly purchase an asset and create joint ownership in the asset.",
+      "ItemsDetails": [
+        [
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Drive your Dream Car Today",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Label",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "Introduction",
+            "Description": "Faysal Islamic Car Finance is based on the principles of Diminishing Musharakah. This is a medium and long term financing product, where the Bank and the customer jointly purchase an asset and create joint ownership in the asset. The Bank rent out its share in the asset to the customer while the customer periodically purchases units of ownership in the asset from the Bank. After purchase of all the units, the customer becomes the sole owner of the asset.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Features & Benefits",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Fast and Hassle-free application process.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Flexibility in selection of cars (Assembled/Manufactured).",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Facility against brand new as well as used vehicle.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Financing amount up to 70% of the value of vehicle.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Flexible Financing Tenure\nMaximum 5 Years (Vehicles up to 1000 CC)\nMaximum 3 Years (Vehicles above 1000 CC)",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Partial Pre-payment facility available.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Co-Partner facility available.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Early settlement option.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Takaful coverage from reputable Takaful Companies on FBL Panel.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Tracker will be installed in vehicles for maximum safety.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Installments start after vehicle delivery.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "No processing fee until financing approval.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Up to 9-year old vehicle can be financed.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Property rental Income can be considered as primary income or additional to the basic income.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Residual Value Financing",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Label",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "Introduction",
+            "Description": "In Residual Value module enables the customer to take a car on significantly lower monthly installment, because here the customer agrees to pay the bank a certain price for the acquisition of the car upon completion of financing period. Depending on their repayment capacity, the customer can also get a much higher valued car than they can get under the regular financing module. This scheme is available for the selected new local assembled vehicles manufacturer i.e., Suzuki, Indus, Honda, KIA, and Master.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Label",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "Introduction",
+            "Description": "Please find the Residual Value grid.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Residual Value Grid",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Table",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "Tenure",
+            "Description": "Max Residual Value % Allowed",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Table",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "1 year",
+            "Description": "Maximum 50%",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Table",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "2 years",
+            "Description": "Maximum 40%",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Table",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "3 years",
+            "Description": "Maximum 35%",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Table",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "4 years",
+            "Description": "Maximum 30%",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Table",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "5 years",
+            "Description": "Maximum 25%",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Documents Required",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Salaried Individuals",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Application Form properly filled and signed by customer.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Current Salary Slip.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Clear and Visible Copy of CNIC.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "2 Recent Photograph (passport size).",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "SBP undertaking properly filled and signed by customer.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "6 Month's Bank Statement, Where Salary Credits (Original / stamped & signed by bank).",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Employment Certificate.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Copy of Latest Utility Bill.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Business Person / Self Employed Person",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Application Form properly filled and signed by customer.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "One-year Business Proof (Copy of NTN or Any Authentic Business proof).",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Clear and Visible Copy of CNIC.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "2 Recent Photograph (passport size).",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "SBP undertaking properly filled and signed by customer.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "6 Month's Bank Statement, Where Salary Credits (Original / stamped & signed by bank).",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Employment Certificate.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Copy of Latest Utility Bill.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "CONSENT",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Checkbox",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "I grant consent to the Bank to access, obtain and process my personal information contained in the Government database for purposes of this product and I consent to the disclosure and provision of such persoanl infomraiton by the Government to the Bank.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Button",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Continue to Apply",
+            "ItemsDetails": []
+          }
+        ]
+      ]
+    },
+    {
+      "isRequired": true,
+      "Type": "Text",
+      "ImageURL": "albaraka_account.jpg",
+      "Title": "Housing Finance",
+      "Description": "Home Finance is a medium and long term financing product, where the Bank and the customer jointly purchase an asset and create joint ownership in the asset.",
+      "ItemsDetails": [
+        [
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "We help you unlock your dreams",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Label",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "Introduction",
+            "Description": "Faysal Islamic Home Finance is based on the principles of Diminishing Musharakah. This is a medium and long term financing product, where the Bank and the customer jointly purchase an asset and create joint ownership in the asset. The Bank rent out its share in the asset to the customer while the customer periodically purchases units of ownership in the asset from the Bank. After purchase of all the units the customer becomes the sole owner of the asset.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Product Features & Benefits",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Label",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "Introduction",
+            "Description": " Faysal Islamic Home Finance is offering four product variants:",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Home Buyer: This type of facility allows customers to purchase an already constructed property.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Home Builder/ Plot + Construction: This type of facility is extended to customers who already own land / want to purchase a piece of land and need funds to meet the cost of constructing property.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Home Renovation: This facility is offered to customers who already own a property and require funds for renovation.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Home Re-finance: (Transfer of existing home finance facility): This type of facility allows customers to transfer existing home finance facilities from any other bank to Faysal Bank Limited Islamic Banking.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Floating rate (Linked with 1 year KIBOR).",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Quick processing with minimum documentation.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Minimum limit of PKR 500,000 and Maximum of PKR 150 Million or up to (80%) of the appraised property value.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Tenure ranging from 1 to 20 years.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Flexibility to make partial pre-payments.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Property Takaful coverage.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Property rental income can be considered as primary or additional to basic income.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Income clubbing option of close relatives (Parents, Spouse & Children Only).",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Non-Resident Pakistanis (NRPs) are also eligible to apply subject to fulfillment of documentary requirements.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "CONSENT",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Checkbox",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "I grant consent to the Bank to access, obtain and process my personal information contained in the Government database for purposes of this product and I consent to the disclosure and provision of such persoanl infomraiton by the Government to the Bank.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Button",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Continue to Apply",
+            "ItemsDetails": []
+          }
+        ]
+      ]
+    },
+    {
+      "isRequired": false,
+      "Type": "Text",
+      "ImageURL": "fb_banner_two.png",
+      "Title": "Faysal Takmeel",
+      "Description": "Live a life of upgraded luxury with Faysal Takmeel, a Shariah compliant facility through Musawamah financing.",
+      "ItemsDetails": [
+
+        [
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Introduction",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Label",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "Introduction",
+            "Description": "Live a life of upgraded luxury with Faysal Takmeel, a Shariah compliant facility through Musawamah financing. Choose the best in consumer durable goods such as home appliances, room decor, air conditioners, TVs, laptops, motorcycles and others through easy, fixed monthly installments and change the way you live, today!",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Key Features",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Minimum and Maximum facility size: PKR 25,000 - Up to PKR 2,000,000.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Tenure: 12 months to 36 months.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Product Pricing: The total selling price of assets will be charged. Once the price is set, the selling price will not be allowed to change during the agreed tenor.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Prepayment penalty: No prepayment penalty charged.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Processing Fee: Rs. 4,000/- + FED.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Charity (Late Payment Charges): None.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "CONSENT",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Checkbox",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "I grant consent to the Bank to access, obtain and process my personal information contained in the Government database for purposes of this product and I consent to the disclosure and provision of such persoanl infomraiton by the Government to the Bank.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Button",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Continue to Apply",
+            "ItemsDetails": []
+          }
+        ]
+      ]
+    },
+    {
+      "isRequired": false,
+      "Type": "Text",
+      "ImageURL": "fb_banner_two.png",
+      "Title": "Faysal Islamic Solar Solution",
+      "Description": "Solar Financing offers a perfect Shariah compliant solution for your home under the Islamic structure of Diminishing Musharka.",
+      "ItemsDetails": [
+        [
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Faysal Islami Solar Solutions",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Label",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "Introduction",
+            "Description": "Faysal Islami Solar Financing offers a perfect Shariah compliant solution for your home under the Islamic structure of Diminishing Musharka. Now finance complete Solar Panel system from Faysal Bank on subsidized rates under SBP's Islamic Refinance Scheme and reduce your monthly electricity expenditures. Through net metering billing mechanism, you can now get credits for providing additional electricity to National Grid that is generated through your solar panel.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Diminishing Musharka",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Label",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "Introduction",
+            "Description": "Diminishing Musharakah (DM) is a form of joint ownership in asset or property in which any of the joint owners undertakes/promises to buy the ownership share of the other joint owner(s) gradually until the ownership of the joint asset or property is completely transferred to the purchasing joint owner.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Key Features:",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Islamic Mode: Diminishing Musharkah",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Financing: Minimum PKR 100,000 - Maximum up to PKR 3,000,000",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Tenure: Flexible tenure between 1 to 7 years.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Profit Rate:  6% per annum (Fixed).",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Repayments: Fixed & Equal Monthly Installment Plan - Installment start after Asset delivery and installation.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Allowed Capacity: 4KW to 20KW.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Non Refundable Processing Fee: PKR 6,000 + FED (Fixed).",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Equity: Minimum 15% of the Asset amount.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Takaful Coverage: Takaful coverage from reputable Takaful Companies on FBL Panel.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Brand Partners: Faysal Islami Solar Solutions will be allowed from reputable alternate energy solution providers on Bank's Panel, which will provide their required services and registered by Alternative Energy Development Board.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Charity (Late Payment Charges): None.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "CONSENT",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Checkbox",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "I grant consent to the Bank to access, obtain and process my personal information contained in the Government database for purposes of this product and I consent to the disclosure and provision of such persoanl infomraiton by the Government to the Bank.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Button",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Continue to Apply",
+            "ItemsDetails": []
+          }
+        ]
+      ]
+    },
+    {
+      "isRequired": false,
+      "Type": "Text",
+      "ImageURL": "Faysal_banner_one.png",
+      "Title": "Ghar Sahulat Scheme",
+      "Description": "Financing Facility for Purchase or construction of Home.",
+      "ItemsDetails": [
+        [
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Ghar Sahulat Scheme GSS",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Label",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "Introduction",
+            "Description": "As Pakistan’s oldest and most trusted housing finance institution, our identity is deeply woven into the country’s history and heritage. Banking on the power that comes from our ideology, people & customers, Faysal stands as the strongest housing finance institution in Pakistan. For seven decades, we have been serving the people of Pakistan with the same unshakeable trust, decade after decade, generation after generation.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Features & Benefits",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Construction and Purchase of House/Apartment",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Verifiable net disposable monthly income.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Up to PKR 30 Million.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Up to 70% on the basis of market value assessed by valuator (of the property to be mortgaged) or purchase value, whichever is lower.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Resident Pakistani",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Co-applicant allowed",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Co-applicant must be an immediate family member.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Guarantor must be a family member having inheritance right in the property to be mortgaged",
+            "ItemsDetails": []
+          },
+         {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Documents Required",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Table",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "Tenure",
+            "Description": "Max Residual Value % Allowed",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Table",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "1 year",
+            "Description": "Maximum 50%",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Table",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "2 years",
+            "Description": "Maximum 40%",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Table",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "3 years",
+            "Description": "Maximum 35%",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Table",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "4 years",
+            "Description": "Maximum 30%",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Table",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "5 years",
+            "Description": "Maximum 25%",
+            "ItemsDetails": []
+          },
+
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Salaried Individuals",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Application Form properly filled and signed by customer.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Current Salary Slip.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Clear and Visible Copy of CNIC.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "2 Recent Photograph (passport size).",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "SBP undertaking properly filled and signed by customer.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "6 Month's Bank Statement, Where Salary Credits (Original / stamped & signed by bank).",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Employment Certificate.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Copy of Latest Utility Bill.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Business Person / Self Employed Person",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Application Form properly filled and signed by customer.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "One-year Business Proof (Copy of NTN or Any Authentic Business proof).",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Clear and Visible Copy of CNIC.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "2 Recent Photograph (passport size).",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "SBP undertaking properly filled and signed by customer.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "6 Month's Bank Statement, Where Salary Credits (Original / stamped & signed by bank).",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Employment Certificate.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Copy of Latest Utility Bill.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "CONSENT",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Checkbox",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "I grant consent to the Bank to access, obtain and process my personal information contained in the Government database for purposes of this product and I consent to the disclosure and provision of such persoanl infomraiton by the Government to the Bank.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Button",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Continue to Apply",
+            "ItemsDetails": []
+          }
+        ]
+      ]
+    },
+    {
+      "isRequired": false,
+      "Type": "Text",
+      "ImageURL": "Faysal_banner_two.png",
+      "Title": "Housing Finance for NRPs",
+      "Description": "Housing Finance for NRPs Your Home, Back Home.",
+      "ItemsDetails": [
+        [
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Housing Finance for NRPs",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Label",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "Introduction",
+            "Description": "Roshan Digital Account is a remarkable initiative led by the State Bank of Pakistan (SBP) for the ease of millions of Non-Resident Pakistanis (NRPs) residing across the world. Faysal is pleased to be amongst the highest contributors in collecting deposits through the RDA account.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Diminishing Musharka",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Label",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "Introduction",
+            "Description": "Roshan Apna Ghar is a House Finance facility that is available to all customers of Roshan Digital Account (RDA), Naya Pakistan Certificates (NPCs), and Islamic Naya Pakistan Certificate (INPC). This facility will be available for customers who are either willing to keep their investment as a lien against their net financing amount as collateral or avail of financing without cash collateral. Further, this will also be available to all the Government Mark-up subsidy scheme customers for housing finance​.​",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Key Features:",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Purchase of completed residential property, house construction, including land purchase or renovation of house/apartment.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Balance transfer facility from other banks",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Financing up to PKR 30 million*.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Financing tenor: 3 to 20 years.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Financing up to 70% of property value.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Income clubbing facility of co-applicant /guarantor.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Life insurance coverage in case of death or permanent disability.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Insurance coverage of property.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Age: 23-60 years for salaried professionals.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Age: 23-65 for self employed professionals and businessmen",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Feature",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Total employment tenor of 03 years.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Header",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "CONSENT",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Checkbox",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "I grant consent to the Bank to access, obtain and process my personal information contained in the Government database for purposes of this product and I consent to the disclosure and provision of such persoanl infomraiton by the Government to the Bank.",
+            "ItemsDetails": []
+          },
+          {
+            "isRequired": true,
+            "Type": "Button",
+            "ImageURL": "fb_banner_two.png",
+            "Title": "",
+            "Description": "Continue to Apply",
+            "ItemsDetails": []
+          }
+        ]
+      ]
+    }
+  ]
+}
